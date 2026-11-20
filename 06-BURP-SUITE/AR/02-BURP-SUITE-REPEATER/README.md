@@ -115,15 +115,15 @@ flowchart TD
 
 | رقم المهمة | اسم المهمة (Task Name) | السؤال المعتمد (Question) | الإجابة المستخرجة (Extracted Value) | رابط ملف المرحلة السبع |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | Introduction | Let's get started! | `No answer needed` | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-01.md) |
-| **02** | What is Repeater? | Which section provides an intuitive interface for editing requests? | `Inspector` | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-02.md) |
-| **03** | Basic Usage | Which view will be populated when we send a request from the Proxy to Repeater? | `Request` | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-03.md) |
-| **04** | Message Analysis Toolbar | Which view option displays the response as it would appear in a browser? | `Render` | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-04.md) |
-| **05** | Inspector | Which section in the Inspector is specific to POST requests? | `Body Parameters` | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-05.md) |
-| **06** | Practical Example | Capture request... add FlagAuthorised header... | `THM{Yzg2MWI2ZDhlYzdlNGFiZTUzZTIzMzVi}` | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-06.md) |
-| **07** | Challenge | See if you can get the server to return an error 500... | `THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzhl}` | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-07.md) |
-| **08** | Extra-mile Challenge | Exploit union-based SQL injection on /about/ID... | `THM{ZGE3OTUyZGMyMzkwNjJmZjg3Mzk1NjJh}` | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-08.md) |
-| **09** | Conclusion | I can now use Repeater to manually edit and resend... | `No answer needed` | [TASK-09.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/02-BURP-SUITE-REPEATER/TASKS/TASK-09.md) |
+| **01** | Introduction | Let's get started! | `No answer needed` | [TASK-01.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-01.md) |
+| **02** | What is Repeater? | Which section provides an intuitive interface for editing requests? | `Inspector` | [TASK-02.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-02.md) |
+| **03** | Basic Usage | Which view will be populated when we send a request from the Proxy to Repeater? | `Request` | [TASK-03.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-03.md) |
+| **04** | Message Analysis Toolbar | Which view option displays the response as it would appear in a browser? | `Render` | [TASK-04.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-04.md) |
+| **05** | Inspector | Which section in the Inspector is specific to POST requests? | `Body Parameters` | [TASK-05.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-05.md) |
+| **06** | Practical Example | Capture request... add FlagAuthorised header... | `THM{Yzg2MWI2ZDhlYzdlNGFiZTUzZTIzMzVi}` | [TASK-06.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-06.md) |
+| **07** | Challenge | See if you can get the server to return an error 500... | `THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzhl}` | [TASK-07.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-07.md) |
+| **08** | Extra-mile Challenge | Exploit union-based SQL injection on /about/ID... | `THM{ZGE3OTUyZGMyMzkwNjJmZjg3Mzk1NjJh}` | [TASK-08.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-08.md) |
+| **09** | Conclusion | I can now use Repeater to manually edit and resend... | `No answer needed` | [TASK-09.md](../../02-BURP-SUITE-REPEATER/TASKS/TASK-09.md) |
 
 ---
 

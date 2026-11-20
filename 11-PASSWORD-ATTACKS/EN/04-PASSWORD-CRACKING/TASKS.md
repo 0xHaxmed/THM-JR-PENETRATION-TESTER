@@ -15,13 +15,13 @@
 
 | Task # | Task Title | Questions Count | Solved / Verified | Link |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | Introduction | 1 | 1/1 | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/04-PASSWORD-CRACKING/TASKS/TASK-01.md) |
-| **02** | How Passwords Are Stored | 3 | 3/3 | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/04-PASSWORD-CRACKING/TASKS/TASK-02.md) |
-| **03** | Identifying Hash Types | 2 | 2/2 | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/04-PASSWORD-CRACKING/TASKS/TASK-03.md) |
-| **04** | Wordlists and Attack Strategies | 3 | 3/3 | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/04-PASSWORD-CRACKING/TASKS/TASK-04.md) |
-| **05** | Cracking with John the Ripper and Hashcat | 3 | 3/3 | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/04-PASSWORD-CRACKING/TASKS/TASK-05.md) |
-| **06** | Practical | 5 | 5/5 | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/04-PASSWORD-CRACKING/TASKS/TASK-06.md) |
-| **07** | Conclusion | 1 | 1/1 | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/04-PASSWORD-CRACKING/TASKS/TASK-07.md) |
+| **01** | Introduction | 1 | 1/1 | [TASK-01.md](../../04-PASSWORD-CRACKING/TASKS/TASK-01.md) |
+| **02** | How Passwords Are Stored | 3 | 3/3 | [TASK-02.md](../../04-PASSWORD-CRACKING/TASKS/TASK-02.md) |
+| **03** | Identifying Hash Types | 2 | 2/2 | [TASK-03.md](../../04-PASSWORD-CRACKING/TASKS/TASK-03.md) |
+| **04** | Wordlists and Attack Strategies | 3 | 3/3 | [TASK-04.md](../../04-PASSWORD-CRACKING/TASKS/TASK-04.md) |
+| **05** | Cracking with John the Ripper and Hashcat | 3 | 3/3 | [TASK-05.md](../../04-PASSWORD-CRACKING/TASKS/TASK-05.md) |
+| **06** | Practical | 5 | 5/5 | [TASK-06.md](../../04-PASSWORD-CRACKING/TASKS/TASK-06.md) |
+| **07** | Conclusion | 1 | 1/1 | [TASK-07.md](../../04-PASSWORD-CRACKING/TASKS/TASK-07.md) |
 
 ---
 

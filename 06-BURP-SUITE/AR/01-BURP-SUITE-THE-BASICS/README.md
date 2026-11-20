@@ -164,31 +164,31 @@ curl -x http://127.0.0.1:8080 http://10.10.x.x/ -I
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
 * للاطلاع على توثيق المهام الـ 15 وفق منهجية المراحل السبع (A-G):
-  * [المهمة 01: المقدمة والتهيئة العامة (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-01.md)
-  * [المهمة 02: ما هي منصة Burp Suite ومقارنة إصداراتها (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-02.md)
-  * [المهمة 03: أدوات ووحدات إصدار Burp Community (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-03.md)
-  * [المهمة 04: تثبيت وتشغيل المنصة (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-04.md)
-  * [المهمة 05: لوحة التحكم وسجلات النظام (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-05.md)
-  * [المهمة 06: التنقل واختصارات لوحة المفاتيح (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-06.md)
-  * [المهمة 07: خيارات وتهيئة الإعدادات (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-07.md)
-  * [المهمة 08: مدخل إلى خادم الوكيل البروكسي (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-08.md)
-  * [المهمة 09: ربط المتصفح عبر FoxyProxy (TASK-09.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-09.md)
-  * [المهمة 10: خريطة الموقع واستخراج العلم (TASK-10.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-10.md)
-  * [المهمة 11: متصفح كروميوم المدمج وبيئة Sandbox (TASK-11.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-11.md)
-  * [المهمة 12: تحديد نطاق الهدف وعزل الضجيج (TASK-12.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-12.md)
-  * [المهمة 13: اعتراض اتصالات HTTPS المشفرة وتثبيت الشهادة (TASK-13.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-13.md)
-  * [المهمة 14: تطبيق هجوم عملي: تجاوز التحقق وحقن XSS (TASK-14.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-14.md)
-  * [المهمة 15: الخاتمة والجاهزية لوحدة Repeater (TASK-15.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-15.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS.md).
+  * [المهمة 01: المقدمة والتهيئة العامة (TASK-01.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-01.md)
+  * [المهمة 02: ما هي منصة Burp Suite ومقارنة إصداراتها (TASK-02.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-02.md)
+  * [المهمة 03: أدوات ووحدات إصدار Burp Community (TASK-03.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-03.md)
+  * [المهمة 04: تثبيت وتشغيل المنصة (TASK-04.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-04.md)
+  * [المهمة 05: لوحة التحكم وسجلات النظام (TASK-05.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-05.md)
+  * [المهمة 06: التنقل واختصارات لوحة المفاتيح (TASK-06.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-06.md)
+  * [المهمة 07: خيارات وتهيئة الإعدادات (TASK-07.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-07.md)
+  * [المهمة 08: مدخل إلى خادم الوكيل البروكسي (TASK-08.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-08.md)
+  * [المهمة 09: ربط المتصفح عبر FoxyProxy (TASK-09.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-09.md)
+  * [المهمة 10: خريطة الموقع واستخراج العلم (TASK-10.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-10.md)
+  * [المهمة 11: متصفح كروميوم المدمج وبيئة Sandbox (TASK-11.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-11.md)
+  * [المهمة 12: تحديد نطاق الهدف وعزل الضجيج (TASK-12.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-12.md)
+  * [المهمة 13: اعتراض اتصالات HTTPS المشفرة وتثبيت الشهادة (TASK-13.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-13.md)
+  * [المهمة 14: تطبيق هجوم عملي: تجاوز التحقق وحقن XSS (TASK-14.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-14.md)
+  * [المهمة 15: الخاتمة والجاهزية لوحدة Repeater (TASK-15.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-15.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../01-BURP-SUITE-THE-BASICS/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل المعماري لمحرك البروكسي، وهندسة تعابير النطاق النمطية، ومحرك Match and Replace:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../01-BURP-SUITE-THE-BASICS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على توثيق PortSwigger الرسمي، ومعايير OWASP، وبطاقة الاختصارات الشاملة:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../01-BURP-SUITE-THE-BASICS/REFERENCES.md)

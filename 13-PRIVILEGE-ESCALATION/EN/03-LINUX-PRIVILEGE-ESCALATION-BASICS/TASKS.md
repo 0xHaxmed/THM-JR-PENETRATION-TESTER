@@ -15,14 +15,14 @@
 
 | Task # | Task Title | Questions Count | Solved / Verified | Link |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | Introduction | 1 | 1/1 | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-01.md) |
-| **02** | Privilege Escalation: Sudo | 2 | 2/2 | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-02.md) |
-| **03** | Privilege Escalation: SUID | 2 | 2/2 | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-03.md) |
-| **04** | Privilege Escalation: PATH | 3 | 3/3 | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-04.md) |
-| **05** | Privilege Escalation: Capabilities | 3 | 3/3 | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-05.md) |
-| **06** | Privilege Escalation: Cron Jobs | 2 | 2/2 | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-06.md) |
-| **07** | Privilege Escalation: NFS | 2 | 2/2 | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-07.md) |
-| **08** | Conclusion | 1 | 1/1 | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-08.md) |
+| **01** | Introduction | 1 | 1/1 | [TASK-01.md](../../03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-01.md) |
+| **02** | Privilege Escalation: Sudo | 2 | 2/2 | [TASK-02.md](../../03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-02.md) |
+| **03** | Privilege Escalation: SUID | 2 | 2/2 | [TASK-03.md](../../03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-03.md) |
+| **04** | Privilege Escalation: PATH | 3 | 3/3 | [TASK-04.md](../../03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-04.md) |
+| **05** | Privilege Escalation: Capabilities | 3 | 3/3 | [TASK-05.md](../../03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-05.md) |
+| **06** | Privilege Escalation: Cron Jobs | 2 | 2/2 | [TASK-06.md](../../03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-06.md) |
+| **07** | Privilege Escalation: NFS | 2 | 2/2 | [TASK-07.md](../../03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-07.md) |
+| **08** | Conclusion | 1 | 1/1 | [TASK-08.md](../../03-LINUX-PRIVILEGE-ESCALATION-BASICS/TASKS/TASK-08.md) |
 
 ---
 

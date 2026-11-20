@@ -15,7 +15,7 @@
 
 ### 🏛️ فهرس أسئلة التقييم
 للاطلاع على الأسئلة التقييمية الست المعتمدة رسمياً من TryHackMe مع التحليل الفني والأكاديمي التفصيلي، راجع:
-* [أسئلة التقييم الختامي للوحدة الرابعة (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/05-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [أسئلة التقييم الختامي للوحدة الرابعة (RECAP-QUESTIONS.md)](../../05-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

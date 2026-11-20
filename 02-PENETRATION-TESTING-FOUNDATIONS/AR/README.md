@@ -12,7 +12,7 @@
 ---
 
 ### 🏛️ الغرف المندرجة تحت هذه الوحدة
-1. [01. اختبار اختراق موجه: الويب (Guided Pentest: Web)](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/01-GUIDED-PENTEST-WEB/README_AR.md)
+1. [01. اختبار اختراق موجه: الويب (Guided Pentest: Web)](../01-GUIDED-PENTEST-WEB/README_AR.md)
    * سيناريو RecruitX: ربط ثغرات الاستطلاع ⟵ IDOR ⟵ إعادة تعيين كلمة المرور ⟵ رفع شل `.phtml` ⟵ تحقيق RCE.
 2. **02. اختبار اختراق موجه: البنية التحتية (Guided Pentest: Infrastructure):**
    * دورة اختراق خادم شبكي واقعي، استغلال ثغرة UnrealIRCd، وتصعيد الامتيازات.

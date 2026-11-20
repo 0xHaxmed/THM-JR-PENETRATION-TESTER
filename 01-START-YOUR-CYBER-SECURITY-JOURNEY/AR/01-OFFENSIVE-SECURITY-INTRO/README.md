@@ -120,11 +120,11 @@ flowchart LR
 
 ## 08. المهام والحلول (Tasks and Solutions)
 تم توثيق المهام الخمس بشكل مستقل وفق منهجية المراحل السبع (A إلى G) في مجلد `TASKS/`:
-* [المهمة 01: التفكير كالمخترق (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-01.md)
-* [المهمة 02: بدء المعمل ورقم الحساب (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-02.md)
-* [المهمة 03: اكتشاف الصفحات المخفية (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-03.md)
-* [المهمة 04: مهاجمة لوحة الإدارة وتعديل الرصيد (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-04.md)
-* [المهمة 05: المسارات المهنية وخاتمة الغرفة (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-05.md)
+* [المهمة 01: التفكير كالمخترق (TASK-01.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-01.md)
+* [المهمة 02: بدء المعمل ورقم الحساب (TASK-02.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-02.md)
+* [المهمة 03: اكتشاف الصفحات المخفية (TASK-03.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-03.md)
+* [المهمة 04: مهاجمة لوحة الإدارة وتعديل الرصيد (TASK-04.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-04.md)
+* [المهمة 05: المسارات المهنية وخاتمة الغرفة (TASK-05.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-05.md)
 
 ---
 

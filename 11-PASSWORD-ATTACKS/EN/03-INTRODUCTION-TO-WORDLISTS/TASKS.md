@@ -17,28 +17,28 @@
 
 | رقم المهمة (Task #) | عنوان المهمة (Task Title) | الهدف العملياتي (Operational Objective) | نوع السؤال / السؤال المطلوب | الإجابة المعتمدة (Accepted Answer) | حالة الإنجاز |
 | :---: | :--- | :--- | :--- | :--- | :---: |
-| **01** | [Task 01: Introduction](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-01.md) | التعرف على أهداف الغرفة ودورة هندسة القوائم | I’m ready to learn about wordlists! | `No answer needed` | ✅ منجز |
-| **02** | [Task 02: Wordlists](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-02.md) | تحديد أداة توليد القوائم المعجمية بالأقنعة | What tool can generate a custom wordlist based on known patterns? | `crunch` | ✅ منجز |
-| **03** | [Task 03: Gathering Information for Custom Wordlists](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-03.md) | تجريف الويب وسحب المستندات واستخراج العناوين | ...how many unique email addresses did you scrape? | `4` | ✅ منجز |
+| **01** | [Task 01: Introduction](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-01.md) | التعرف على أهداف الغرفة ودورة هندسة القوائم | I’m ready to learn about wordlists! | `No answer needed` | ✅ منجز |
+| **02** | [Task 02: Wordlists](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-02.md) | تحديد أداة توليد القوائم المعجمية بالأقنعة | What tool can generate a custom wordlist based on known patterns? | `crunch` | ✅ منجز |
+| **03** | [Task 03: Gathering Information for Custom Wordlists](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-03.md) | تجريف الويب وسحب المستندات واستخراج العناوين | ...how many unique email addresses did you scrape? | `4` | ✅ منجز |
 | | | | How many PDF files were you able to find? | `1` | ✅ منجز |
 | | | | How many email addresses... from the PDF files? | `4` | ✅ منجز |
 | | | | What is the last username in the users_from_emails.txt file? | `security` | ✅ منجز |
-| **04** | [Task 04: Creating and Cleaning Wordlists](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-04.md) | تطهير القواميس وتوليد كلمات المرور بالأقنعة | How many words are in words_clean.txt after cleaning up...? | `161` | ✅ منجز |
+| **04** | [Task 04: Creating and Cleaning Wordlists](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-04.md) | تطهير القواميس وتوليد كلمات المرور بالأقنعة | How many words are in words_clean.txt after cleaning up...? | `161` | ✅ منجز |
 | | | | What is the 10th password in the pass_helios.txt file? | `Helios2009!` | ✅ منجز |
 | | | | What flag does sort use to remove duplicate lines? | `-u` | ✅ منجز |
 | | | | What crunch template character represents a digit? | `%` | ✅ منجز |
-| **05** | [Task 05: Using Your Wordlist](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-05.md) | استكشاف المسارات عبر ffuf واختراق حساب أليكس عبر Hydra | What HTTP status code does ffuf report for helios/ ? | `200` | ✅ منجز |
+| **05** | [Task 05: Using Your Wordlist](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-05.md) | استكشاف المسارات عبر ffuf واختراق حساب أليكس عبر Hydra | What HTTP status code does ffuf report for helios/ ? | `200` | ✅ منجز |
 | | | | What is the username that Hydra discovers? | `alex.johnson` | ✅ منجز |
 | | | | What is the flag? | `THM{w0rdlists_win_rooms}` | ✅ منجز |
-| **06** | [Task 06: Conclusion](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-06.md) | تلخيص المهارات والانتقال لكسر التجزئات | I got all my wordlists sharp and ready. | `No answer needed` | ✅ منجز |
+| **06** | [Task 06: Conclusion](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-06.md) | تلخيص المهارات والانتقال لكسر التجزئات | I got all my wordlists sharp and ready. | `No answer needed` | ✅ منجز |
 
 ---
 
 ## 🎯 Quick Navigation to Detailed Task Files (روابط الوصول المباشر لملفات المهام)
 
-1. [TASK-01.md: Introduction & Educational Scope](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-01.md)
-2. [TASK-02.md: Wordlists (Applications & Crunch Tool)](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-02.md)
-3. [TASK-03.md: Gathering Information (CeWL, PDF Scraping & Regex)](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-03.md)
-4. [TASK-04.md: Creating & Cleaning (Deduplication & Crunch Masks)](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-04.md)
-5. [TASK-05.md: Using Your Wordlist (Ffuf Fuzzing & Hydra Exploitation)](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-05.md)
-6. [TASK-06.md: Conclusion & Synthesis](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-06.md)
+1. [TASK-01.md: Introduction & Educational Scope](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-01.md)
+2. [TASK-02.md: Wordlists (Applications & Crunch Tool)](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-02.md)
+3. [TASK-03.md: Gathering Information (CeWL, PDF Scraping & Regex)](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-03.md)
+4. [TASK-04.md: Creating & Cleaning (Deduplication & Crunch Masks)](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-04.md)
+5. [TASK-05.md: Using Your Wordlist (Ffuf Fuzzing & Hydra Exploitation)](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-05.md)
+6. [TASK-06.md: Conclusion & Synthesis](../../03-INTRODUCTION-TO-WORDLISTS/TASKS/TASK-06.md)

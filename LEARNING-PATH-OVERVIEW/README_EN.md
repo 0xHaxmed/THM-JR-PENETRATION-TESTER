@@ -18,7 +18,7 @@ The path transitions practitioners from passive conceptual knowledge to executin
 ---
 
 ### 🗺️ Directory Contents
-* [Complete Curriculum Breakdown](file:///e:/THM-JR-PENETRATION-TESTER/LEARNING-PATH-OVERVIEW/COMPLETE-CURRICULUM.md)
-* [Technical Skill Map](file:///e:/THM-JR-PENETRATION-TESTER/LEARNING-PATH-OVERVIEW/SKILL-MAP.md)
-* [Sequential Learning Roadmap](file:///e:/THM-JR-PENETRATION-TESTER/LEARNING-PATH-OVERVIEW/LEARNING-ROADMAP.md)
-* [Arabic Version](file:///e:/THM-JR-PENETRATION-TESTER/LEARNING-PATH-OVERVIEW/README_AR.md)
+* [Complete Curriculum Breakdown](./COMPLETE-CURRICULUM.md)
+* [Technical Skill Map](./SKILL-MAP.md)
+* [Sequential Learning Roadmap](./LEARNING-ROADMAP.md)
+* [Arabic Version](./README_AR.md)

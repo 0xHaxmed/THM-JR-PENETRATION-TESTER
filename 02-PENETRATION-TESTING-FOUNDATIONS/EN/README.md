@@ -8,7 +8,7 @@ Module 02 establishes the foundational and operational core of the modernized **
 ---
 
 ### 🏛️ Module Rooms Inventory
-1. [01. Guided Pentest: Web](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/01-GUIDED-PENTEST-WEB/README_EN.md)
+1. [01. Guided Pentest: Web](../01-GUIDED-PENTEST-WEB/README_EN.md)
    * The RecruitX scenario: Chaining Reconnaissance ⟶ IDOR ⟶ Password Reset Flaws ⟶ File Upload Bypass (`.phtml`) ⟶ Remote Code Execution (RCE).
 2. **02. Guided Pentest: Infrastructure:**
    * Infrastructure assessment lifecycle, UnrealIRCd backdoor exploitation, internal enumeration, and privilege escalation to `root`.

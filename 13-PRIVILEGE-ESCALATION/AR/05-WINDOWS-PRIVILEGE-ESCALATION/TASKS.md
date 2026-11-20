@@ -15,15 +15,15 @@
 
 | Task # | Task Title | Questions Count | Solved / Verified | Link |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | Introduction | 1 | 1/1 | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-01.md) |
-| **02** | Windows Privilege Escalation | 2 | 2/2 | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-02.md) |
-| **03** | Harvesting Passwords from Usual Spots | 4 | 4/4 | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-03.md) |
-| **04** | Other Quick Wins | 1 | 1/1 | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-04.md) |
-| **05** | Abusing Service Misconfigurations | 3 | 3/3 | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-05.md) |
-| **06** | Abusing dangerous privileges | 1 | 1/1 | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-06.md) |
-| **07** | Abusing vulnerable software | 1 | 1/1 | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-07.md) |
-| **08** | Tools of the Trade | 1 | 1/1 | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-08.md) |
-| **09** | Conclusion | 1 | 1/1 | [TASK-09.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-09.md) |
+| **01** | Introduction | 1 | 1/1 | [TASK-01.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-01.md) |
+| **02** | Windows Privilege Escalation | 2 | 2/2 | [TASK-02.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-02.md) |
+| **03** | Harvesting Passwords from Usual Spots | 4 | 4/4 | [TASK-03.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-03.md) |
+| **04** | Other Quick Wins | 1 | 1/1 | [TASK-04.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-04.md) |
+| **05** | Abusing Service Misconfigurations | 3 | 3/3 | [TASK-05.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-05.md) |
+| **06** | Abusing dangerous privileges | 1 | 1/1 | [TASK-06.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-06.md) |
+| **07** | Abusing vulnerable software | 1 | 1/1 | [TASK-07.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-07.md) |
+| **08** | Tools of the Trade | 1 | 1/1 | [TASK-08.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-08.md) |
+| **09** | Conclusion | 1 | 1/1 | [TASK-09.md](../../05-WINDOWS-PRIVILEGE-ESCALATION/TASKS/TASK-09.md) |
 
 ---
 

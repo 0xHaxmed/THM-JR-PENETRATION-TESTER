@@ -183,24 +183,24 @@ nmap -p 80 --script http-methods 10.10.x.x
 ---
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
-* [المهمة 01: المقدمة وسياق الهجمات الميدانية (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-01.md)
-* [المهمة 02: التقاط بصمات IIS واكتشاف WebDAV (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-02.md)
-* [المهمة 03: تخمين الأسماء القصيرة 8.3 عبر علامة المدة (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-03.md)
-* [المهمة 04: استغلال WebDAV ورفع صدفة ASPX عبر NTLM (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-04.md)
-* [المهمة 05: صدفات ASPX وامتياز انتحال الرموز SeImpersonatePrivilege (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-05.md)
-* [المهمة 06: أخطاء التهيئة الشائعة في IIS وتسريب الملفات ومسار trace.axd (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-06.md)
-* [المهمة 07: أتمتة فحص IIS عبر سكربتات Nmap NSE (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-07.md)
-* [المهمة 08: الخاتمة ومخطط مسار الهجوم المتكامل (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-08.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS.md).
+* [المهمة 01: المقدمة وسياق الهجمات الميدانية (TASK-01.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-01.md)
+* [المهمة 02: التقاط بصمات IIS واكتشاف WebDAV (TASK-02.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-02.md)
+* [المهمة 03: تخمين الأسماء القصيرة 8.3 عبر علامة المدة (TASK-03.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-03.md)
+* [المهمة 04: استغلال WebDAV ورفع صدفة ASPX عبر NTLM (TASK-04.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-04.md)
+* [المهمة 05: صدفات ASPX وامتياز انتحال الرموز SeImpersonatePrivilege (TASK-05.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-05.md)
+* [المهمة 06: أخطاء التهيئة الشائعة في IIS وتسريب الملفات ومسار trace.axd (TASK-06.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-06.md)
+* [المهمة 07: أتمتة فحص IIS عبر سكربتات Nmap NSE (TASK-07.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-07.md)
+* [المهمة 08: الخاتمة ومخطط مسار الهجوم المتكامل (TASK-08.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-08.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل المعماري لـ HTTP.sys و w3wp.exe، وميكانيكا خوارزمية 8.3 SFN، ومصفوفة تصعيد الصلاحيات بعائلة Potato:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../05-WEB-SERVER-ATTACKS-II/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على تقارير CISA واستخبارات APT وأبحاث Soroush Dalili ومصادر مايكروسوفت الرسمية:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../05-WEB-SERVER-ATTACKS-II/REFERENCES.md)

@@ -164,31 +164,31 @@ curl -x http://127.0.0.1:8080 -sI http://10.10.x.x/
 ---
 
 ### 12. Tasks Index
-* [Task 01: Introduction & Lab Setup (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-01.md)
-* [Task 02: What is Burp Suite & Editions (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-02.md)
-* [Task 03: Features of Burp Community (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-03.md)
-* [Task 04: Installation & Java Environment (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-04.md)
-* [Task 05: The Dashboard & Event Log (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-05.md)
-* [Task 06: Navigation & Keyboard Shortcuts (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-06.md)
-* [Task 07: Unified Options & Project Settings (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-07.md)
-* [Task 08: Introduction to the Burp Proxy (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-08.md)
-* [Task 09: Browser Routing via FoxyProxy (TASK-09.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-09.md)
-* [Task 10: Site Map & Flag Recovery (TASK-10.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-10.md)
-* [Task 11: Embedded Chromium & Root Sandbox (TASK-11.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-11.md)
-* [Task 12: Target Scoping & Noise Elimination (TASK-12.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-12.md)
-* [Task 13: HTTPS Interception & CA Trust (TASK-13.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-13.md)
-* [Task 14: Client-Side Validation Bypass & Reflected XSS (TASK-14.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-14.md)
-* [Task 15: Conclusion & Transition to Repeater (TASK-15.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS/TASK-15.md)
-* See also: [Tasks & Answers Index (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/TASKS.md)
+* [Task 01: Introduction & Lab Setup (TASK-01.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-01.md)
+* [Task 02: What is Burp Suite & Editions (TASK-02.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-02.md)
+* [Task 03: Features of Burp Community (TASK-03.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-03.md)
+* [Task 04: Installation & Java Environment (TASK-04.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-04.md)
+* [Task 05: The Dashboard & Event Log (TASK-05.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-05.md)
+* [Task 06: Navigation & Keyboard Shortcuts (TASK-06.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-06.md)
+* [Task 07: Unified Options & Project Settings (TASK-07.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-07.md)
+* [Task 08: Introduction to the Burp Proxy (TASK-08.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-08.md)
+* [Task 09: Browser Routing via FoxyProxy (TASK-09.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-09.md)
+* [Task 10: Site Map & Flag Recovery (TASK-10.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-10.md)
+* [Task 11: Embedded Chromium & Root Sandbox (TASK-11.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-11.md)
+* [Task 12: Target Scoping & Noise Elimination (TASK-12.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-12.md)
+* [Task 13: HTTPS Interception & CA Trust (TASK-13.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-13.md)
+* [Task 14: Client-Side Validation Bypass & Reflected XSS (TASK-14.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-14.md)
+* [Task 15: Conclusion & Transition to Repeater (TASK-15.md)](../../01-BURP-SUITE-THE-BASICS/TASKS/TASK-15.md)
+* See also: [Tasks & Answers Index (TASKS.md)](../../01-BURP-SUITE-THE-BASICS/TASKS.md)
 
 ---
 
 ### 13. Additional Notes & Deep Dive
 * For in-depth architectural breakdown of intercepting proxies, dynamic TLS MITM mechanics, scope regex compilation, and Match & Replace rules:
-  * [Additional Notes & Technical Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Technical Deep Dive (ADDITIONAL-NOTES.md)](../../01-BURP-SUITE-THE-BASICS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standards
 * For official PortSwigger documentation, OWASP guidelines, and RFC specifications:
-  * [Official References & Security Standards (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/01-BURP-SUITE-THE-BASICS/REFERENCES.md)
+  * [Official References & Security Standards (REFERENCES.md)](../../01-BURP-SUITE-THE-BASICS/REFERENCES.md)

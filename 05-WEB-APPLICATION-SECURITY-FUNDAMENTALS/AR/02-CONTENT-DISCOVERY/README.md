@@ -151,24 +151,24 @@ gobuster vhost -u http://target.thm -w /usr/share/wordlists/seclists/Discovery/D
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
 * للاطلاع على التوثيق التفصيلي لكل مهمة وفق منهجية المراحل السبع (A-G):
-  * [المهمة 01: المقدمة واستكشاف المحتوى (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-01.md)
-  * [المهمة 02: الاستكشاف اليدوي للملفات الشائعة (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-02.md)
-  * [المهمة 03: ترويسات HTTP وبصمة أطر العمل (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-03.md)
-  * [المهمة 04: محركات البحث وأدوات الويب OSINT (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-04.md)
-  * [المهمة 05: الأرشيف الرقمي والمستودعات السحابية (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-05.md)
-  * [المهمة 06: أساسيات أداة Gobuster للتخمين (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-06.md)
-  * [المهمة 07: النطاقات الفرعية والمجالات الافتراضية (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-07.md)
-  * [المهمة 08: الخاتمة والمنهجية التوليفية (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-08.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS.md).
+  * [المهمة 01: المقدمة واستكشاف المحتوى (TASK-01.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-01.md)
+  * [المهمة 02: الاستكشاف اليدوي للملفات الشائعة (TASK-02.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-02.md)
+  * [المهمة 03: ترويسات HTTP وبصمة أطر العمل (TASK-03.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-03.md)
+  * [المهمة 04: محركات البحث وأدوات الويب OSINT (TASK-04.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-04.md)
+  * [المهمة 05: الأرشيف الرقمي والمستودعات السحابية (TASK-05.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-05.md)
+  * [المهمة 06: أساسيات أداة Gobuster للتخمين (TASK-06.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-06.md)
+  * [المهمة 07: النطاقات الفرعية والمجالات الافتراضية (TASK-07.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-07.md)
+  * [المهمة 08: الخاتمة والمنهجية التوليفية (TASK-08.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-08.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../02-CONTENT-DISCOVERY/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على مقارنة أدوات التخمين وهندسة قواميس SecLists وبصمة Favicon وتوجيه الـ VHosts:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../02-CONTENT-DISCOVERY/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على توثيق Gobuster ومستودع SecLists ومعايير OWASP:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../02-CONTENT-DISCOVERY/REFERENCES.md)

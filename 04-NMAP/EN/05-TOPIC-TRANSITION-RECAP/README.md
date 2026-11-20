@@ -15,7 +15,7 @@ This assessment bridges the practical and architectural competencies mastered ac
 
 ### 🏛️ Topic Transition Assessment Index
 To review the official questions, verified solutions, and pedagogical explanations, refer to:
-* [Module 04 Recap Questions and Solutions (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/05-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [Module 04 Recap Questions and Solutions (RECAP-QUESTIONS.md)](../../05-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

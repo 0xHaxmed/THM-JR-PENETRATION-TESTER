@@ -15,7 +15,7 @@
 
 | Task # | Task Title | Questions Count | Solved / Verified | Link |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | Challenge | 5 | 5/5 | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/06-JUMP-CHALLENGE/TASKS/TASK-01.md) |
+| **01** | Challenge | 5 | 5/5 | [TASK-01.md](../../06-JUMP-CHALLENGE/TASKS/TASK-01.md) |
 
 ---
 

@@ -23,10 +23,10 @@
 ---
 
 ### روابط ملفات المهام التفصيلية (7-Stage Methodology Links):
-* [المهمة 01: المقدمة ومنهجية فحص الأطر (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-01.md)
-* [المهمة 02: مكدس MERN وتلويث النموذج الأولي (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-02.md)
-* [المهمة 03: أطر عمل Next.js وتجاوز Middleware عبر CVE-2025-29927 (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-03.md)
-* [المهمة 04: إطار عمل Django وحقن SQL في ORDER BY عبر CVE-2021-35042 (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-04.md)
-* [المهمة 05: مكدس LAMP وثغرة Apache 2.4.49 RCE عبر CVE-2021-41773 (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-05.md)
-* [المهمة 06: الأتمتة وفحص البصمات بواسطة Nikto (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-06.md)
-* [المهمة 07: الخاتمة ومصفوفة المقارنة الأمنية (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-07.md)
+* [المهمة 01: المقدمة ومنهجية فحص الأطر (TASK-01.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-01.md)
+* [المهمة 02: مكدس MERN وتلويث النموذج الأولي (TASK-02.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-02.md)
+* [المهمة 03: أطر عمل Next.js وتجاوز Middleware عبر CVE-2025-29927 (TASK-03.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-03.md)
+* [المهمة 04: إطار عمل Django وحقن SQL في ORDER BY عبر CVE-2021-35042 (TASK-04.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-04.md)
+* [المهمة 05: مكدس LAMP وثغرة Apache 2.4.49 RCE عبر CVE-2021-41773 (TASK-05.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-05.md)
+* [المهمة 06: الأتمتة وفحص البصمات بواسطة Nikto (TASK-06.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-06.md)
+* [المهمة 07: الخاتمة ومصفوفة المقارنة الأمنية (TASK-07.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-07.md)

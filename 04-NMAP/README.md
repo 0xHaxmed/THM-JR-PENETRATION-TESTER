@@ -1,17 +1,42 @@
-﻿# 04-NMAP
+# Module 04: Nmap
+## موديول 04: Nmap
 
 ---
 
 ### 🌐 اختر لغة التصفح والدراسة | Select Documentation Language:
-* 🇸🇦 **[المسار العربي الكامل للموديول (Arabic Version)](file:///E:/THM-JR-PENETRATION-TESTER/04-NMAP/AR/README.md)** — توثيق وشرح تفصيلي للمبتدئين مدعوم بالأمثلة العملية وسلاسل الهجوم.
-* 🇬🇧 **[Full English Module Documentation (English Version)](file:///E:/THM-JR-PENETRATION-TESTER/04-NMAP/EN/README.md)** — Production-grade technical reference with mirrored structure.
+* 🇸🇦 **[المسار العربي الكامل للموديول (Arabic Version)](./AR/README.md)** — توثيق وشرح تفصيلي للمبتدئين مدعوم بالأمثلة وسلاسل الهجوم والتحليل التطبيقي.
+* 🇬🇧 **[Full English Module Documentation (English Version)](./EN/README.md)** — Production-grade technical reference with mirrored structure.
+
+---
+
+### 📋 مصفوفة غرف الموديول والروابط السريعة | Module Rooms & Quick Links
+
+| # | Room Name | 🇸🇦 Arabic Documentation | 🇬🇧 English Documentation |
+|:---:|---|---|---|
+| **01** | **Nmap Live Host Discovery** | [دليل الروم بالعربي](./AR/01-NMAP-LIVE-HOST-DISCOVERY/README.md) | [English Room Guide](./EN/01-NMAP-LIVE-HOST-DISCOVERY/README.md) |
+| **02** | **Nmap Basic Port Scans** | [دليل الروم بالعربي](./AR/02-NMAP-BASIC-PORT-SCANS/README.md) | [English Room Guide](./EN/02-NMAP-BASIC-PORT-SCANS/README.md) |
+| **03** | **Nmap Advanced Port Scans** | [دليل الروم بالعربي](./AR/03-NMAP-ADVANCED-PORT-SCANS/README.md) | [English Room Guide](./EN/03-NMAP-ADVANCED-PORT-SCANS/README.md) |
+| **04** | **Nmap Post Port Scans** | [دليل الروم بالعربي](./AR/04-NMAP-POST-PORT-SCANS/README.md) | [English Room Guide](./EN/04-NMAP-POST-PORT-SCANS/README.md) |
+| **05** | **Topic Transition Recap** | [دليل الروم بالعربي](./AR/05-TOPIC-TRANSITION-RECAP/README.md) | [English Room Guide](./EN/05-TOPIC-TRANSITION-RECAP/README.md) |
 
 ---
 
 ### 📂 مجلدات الموديول المنظمة | Directory Structure
-``text
+```text
 04-NMAP/
 ├── README.md                      # هذا الدليل التوجيهي الرئيسي
 ├── AR/                            # المحتوى العربي الكامل بكافة الرومات والمهام
+│   ├── README.md                  # دليل الموديول العربي
+│   ├── 01-NMAP-LIVE-HOST-DISCOVERY/
+│   ├── 02-NMAP-BASIC-PORT-SCANS/
+│   ├── 03-NMAP-ADVANCED-PORT-SCANS/
+│   ├── 04-NMAP-POST-PORT-SCANS/
+│   ├── 05-TOPIC-TRANSITION-RECAP/
 └── EN/                            # The complete mirrored English documentation
-``
+    ├── README.md                  # English Module Guide
+│   ├── 01-NMAP-LIVE-HOST-DISCOVERY/
+│   ├── 02-NMAP-BASIC-PORT-SCANS/
+│   ├── 03-NMAP-ADVANCED-PORT-SCANS/
+│   ├── 04-NMAP-POST-PORT-SCANS/
+│   ├── 05-TOPIC-TRANSITION-RECAP/
+```

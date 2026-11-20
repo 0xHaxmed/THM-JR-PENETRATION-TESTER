@@ -163,25 +163,25 @@ sudo nmap -sA -D 10.10.20.21,10.10.20.28,ME -p 1-1000 --reason MACHINE_IP
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
 * للاطلاع على التوثيق التفصيلي لكل مهمة وفق منهجية المراحل السبع (A-G):
-  * [المهمة 01: المقدمة (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-01.md)
-  * [المهمة 02: فحوصات Null و FIN و Xmas (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-02.md)
-  * [المهمة 03: فحص مايمون وثغرة BSD (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-03.md)
-  * [المهمة 04: فحوصات ACK و Window والفحص المخصص (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-04.md)
-  * [المهمة 05: انتحال العناوين والتمويه بالعناوين الوهمية (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-05.md)
-  * [المهمة 06: تجزئة الحزم وتجاوز الفحص السطحي (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-06.md)
-  * [المهمة 07: فحص الخمول والاستطلاع المتستر (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-07.md)
-  * [المهمة 08: استخراج التفاصيل وتفسير الأسباب (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-08.md)
-  * [المهمة 09: الخلاصة والجدول المقارن (TASK-09.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-09.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS.md).
+  * [المهمة 01: المقدمة (TASK-01.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-01.md)
+  * [المهمة 02: فحوصات Null و FIN و Xmas (TASK-02.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-02.md)
+  * [المهمة 03: فحص مايمون وثغرة BSD (TASK-03.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-03.md)
+  * [المهمة 04: فحوصات ACK و Window والفحص المخصص (TASK-04.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-04.md)
+  * [المهمة 05: انتحال العناوين والتمويه بالعناوين الوهمية (TASK-05.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-05.md)
+  * [المهمة 06: تجزئة الحزم وتجاوز الفحص السطحي (TASK-06.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-06.md)
+  * [المهمة 07: فحص الخمول والاستطلاع المتستر (TASK-07.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-07.md)
+  * [المهمة 08: استخراج التفاصيل وتفسير الأسباب (TASK-08.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-08.md)
+  * [المهمة 09: الخلاصة والجدول المقارن (TASK-09.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-09.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل المعماري لشذوذ مكدس ويندوز وآلة حالة فحص الخمول وتجزئة حقول IP:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../03-NMAP-ADVANCED-PORT-SCANS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على المعايير الرسمية RFC 793 و RFC 791 ومقالات Phrack وأوراق أبحاث Antirez:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../03-NMAP-ADVANCED-PORT-SCANS/REFERENCES.md)

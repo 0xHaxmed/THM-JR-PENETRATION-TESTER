@@ -2,14 +2,14 @@
 
 | رقم المهمة | عنوان المهمة | عدد الأسئلة | الموضوع الجوهري | حالة الإنجاز | رابط ملف الشرح التفصيلي |
 | :---: | :--- | :---: | :--- | :---: | :---: |
-| **01** | Introduction | 0 | مدخل ثغرات تضمين الملفات وارتباطها بإطار OWASP | مكتمل ✅ | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-01.md) |
-| **02** | Deploy the VM | 0 | تشغيل الآلة وفحص هيكلية المعامل والصفحة الرئيسية | مكتمل ✅ | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-02.md) |
-| **03** | Path Traversal | 1 | تشريح دالة `file_get_contents` وقراءة ملفات لينكس وويندوز | مكتمل ✅ | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-03.md) |
-| **04** | Local File Inclusion - LFI | 2 | المعملين 1 و 2 وتحديد المسارات المطلقة واستخراج مجلد `includes` | مكتمل ✅ | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-04.md) |
-| **05** | Local File Inclusion - LFI Continued | 4 | تقنيات الالتفاف: البايت الفارغ `%00`، المجلد `THM-profile`، وإصدار النظام `12.04` | مكتمل ✅ | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-05.md) |
-| **06** | Remote File Inclusion - RFI | 0 | شروط RFI في `php.ini` ومسار استضافة الحمولات وتحقيق RCE | مكتمل ✅ | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-06.md) |
-| **07** | Challenge | 4 | تحديات الأعلام الثلاثة + RCE Playground (`lfi-vm-thm-f8c5b1a78692`) | مكتمل ✅ | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-07.md) |
-| **08** | Remediation | 0 | القوائم البيضاء، تحصين `php.ini`، وتنقية المسارات بـ `basename` | مكتمل ✅ | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-08.md) |
+| **01** | Introduction | 0 | مدخل ثغرات تضمين الملفات وارتباطها بإطار OWASP | مكتمل ✅ | [TASK-01.md](../../03-FILE-INCLUSION/TASKS/TASK-01.md) |
+| **02** | Deploy the VM | 0 | تشغيل الآلة وفحص هيكلية المعامل والصفحة الرئيسية | مكتمل ✅ | [TASK-02.md](../../03-FILE-INCLUSION/TASKS/TASK-02.md) |
+| **03** | Path Traversal | 1 | تشريح دالة `file_get_contents` وقراءة ملفات لينكس وويندوز | مكتمل ✅ | [TASK-03.md](../../03-FILE-INCLUSION/TASKS/TASK-03.md) |
+| **04** | Local File Inclusion - LFI | 2 | المعملين 1 و 2 وتحديد المسارات المطلقة واستخراج مجلد `includes` | مكتمل ✅ | [TASK-04.md](../../03-FILE-INCLUSION/TASKS/TASK-04.md) |
+| **05** | Local File Inclusion - LFI Continued | 4 | تقنيات الالتفاف: البايت الفارغ `%00`، المجلد `THM-profile`، وإصدار النظام `12.04` | مكتمل ✅ | [TASK-05.md](../../03-FILE-INCLUSION/TASKS/TASK-05.md) |
+| **06** | Remote File Inclusion - RFI | 0 | شروط RFI في `php.ini` ومسار استضافة الحمولات وتحقيق RCE | مكتمل ✅ | [TASK-06.md](../../03-FILE-INCLUSION/TASKS/TASK-06.md) |
+| **07** | Challenge | 4 | تحديات الأعلام الثلاثة + RCE Playground (`lfi-vm-thm-f8c5b1a78692`) | مكتمل ✅ | [TASK-07.md](../../03-FILE-INCLUSION/TASKS/TASK-07.md) |
+| **08** | Remediation | 0 | القوائم البيضاء، تحصين `php.ini`، وتنقية المسارات بـ `basename` | مكتمل ✅ | [TASK-08.md](../../03-FILE-INCLUSION/TASKS/TASK-08.md) |
 
 ---
 

@@ -26,10 +26,10 @@ flowchart LR
 
 | Order | Room Directory | Core Focus | Hands-on Takeaway |
 |:---:|---|---|---|
-| **01** | [01-OFFENSIVE-SECURITY-INTRO](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/EN/01-OFFENSIVE-SECURITY-INTRO/README.md) | Offensive Mindset & Web Recon | Exploiting an unauthenticated web banking portal (`FakeBank`), discovering hidden routes with `dirb`, and unauthorized funds transfer. |
-| **02** | [02-DEFENSIVE-SECURITY-INTRO](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/EN/02-DEFENSIVE-SECURITY-INTRO/README.md) | Defensive Ops & SOC Architecture | Triaging SIEM event alerts, tracing an attacker IP, and implementing perimeter firewall blocks. |
-| **03** | [03-SEARCH-SKILLS](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/EN/03-SEARCH-SKILLS/README.md) | Advanced Information Gathering | Google Dorking operators, Shodan IoT scanning, VirusTotal malware hashing, and CVE vulnerability databases. |
-| **04** | [04-TOPIC-TRANSITION-RECAP](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/EN/04-TOPIC-TRANSITION-RECAP/README.md) | Capstone Synthesis & Review | Comprehensive evaluation questions assessing readiness for Module 02. |
+| **01** | [01-OFFENSIVE-SECURITY-INTRO](./01-OFFENSIVE-SECURITY-INTRO/README.md) | Offensive Mindset & Web Recon | Exploiting an unauthenticated web banking portal (`FakeBank`), discovering hidden routes with `dirb`, and unauthorized funds transfer. |
+| **02** | [02-DEFENSIVE-SECURITY-INTRO](./02-DEFENSIVE-SECURITY-INTRO/README.md) | Defensive Ops & SOC Architecture | Triaging SIEM event alerts, tracing an attacker IP, and implementing perimeter firewall blocks. |
+| **03** | [03-SEARCH-SKILLS](./03-SEARCH-SKILLS/README.md) | Advanced Information Gathering | Google Dorking operators, Shodan IoT scanning, VirusTotal malware hashing, and CVE vulnerability databases. |
+| **04** | [04-TOPIC-TRANSITION-RECAP](./04-TOPIC-TRANSITION-RECAP/README.md) | Capstone Synthesis & Review | Comprehensive evaluation questions assessing readiness for Module 02. |
 
 ---
 
@@ -45,7 +45,7 @@ flowchart LR
 ---
 
 ## 📂 4. Quick Room Navigation
-- 🚪 [Room 01: Offensive Security Intro](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/EN/01-OFFENSIVE-SECURITY-INTRO/)
-- 🚪 [Room 02: Defensive Security Intro](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/EN/02-DEFENSIVE-SECURITY-INTRO/)
-- 🚪 [Room 03: Search Skills](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/EN/03-SEARCH-SKILLS/)
-- 🚪 [Room 04: Topic Transition Recap](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/EN/04-TOPIC-TRANSITION-RECAP/)
+- 🚪 [Room 01: Offensive Security Intro](./01-OFFENSIVE-SECURITY-INTRO)
+- 🚪 [Room 02: Defensive Security Intro](./02-DEFENSIVE-SECURITY-INTRO)
+- 🚪 [Room 03: Search Skills](./03-SEARCH-SKILLS)
+- 🚪 [Room 04: Topic Transition Recap](./04-TOPIC-TRANSITION-RECAP)

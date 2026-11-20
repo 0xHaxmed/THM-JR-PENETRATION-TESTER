@@ -13,15 +13,15 @@
 
 | رقم المهمة | عنوان المهمة الأصلي | المفهوم الأساسي | رابط ملف الحل المكتمل | الحالة |
 |---|---|---|---|---|
-| **Task 01** | Introduction | مدخل إلى إطار لوكهيد مارتن والمراحل السبع | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-01.md) | مكتملة ومحققة |
-| **Task 02** | Reconnaissance | مرحلة الاستطلاع واستخدام Google Dorking والاستطلاع السلبي | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-02.md) | مكتملة ومحققة |
-| **Task 03** | Weaponisation | مرحلة التسليح وتعتيم الشيفرات البرمجية واستخدام الماكرو | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-03.md) | مكتملة ومحققة |
-| **Task 04** | Delivery | مرحلة التوصيل وثغرات اليوم الصفر والمصادقة متعددة العوامل | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-04.md) | مكتملة ومحققة |
-| **Task 05** | Exploitation | مرحلة الاستغلال وتفعيل الحمولة على النظام المستهدف | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-05.md) | مكتملة ومحققة |
-| **Task 06** | Installation | مرحلة التثبيت واستخدام Web Shell وقوائم السماح Allowlisting | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-06.md) | مكتملة ومحققة |
-| **Task 07** | Command and Control (C2) | قنوات القيادة والتحكم، نفق DNS وبروتوكول HTTPS | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-07.md) | مكتملة ومحققة |
-| **Task 08** | Actions on Objectives | تحقيق أهداف الهجوم، تسريب البيانات وبرمجيات الفدية | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-08.md) | مكتملة ومحققة |
-| **Task 09** | Conclusion | النشاط التفاعلي لمحاكاة الهجوم واقتناص الراية الختامية | [TASK-09.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/04-CYBER-KILL-CHAIN/TASKS/TASK-09.md) | مكتملة ومحققة |
+| **Task 01** | Introduction | مدخل إلى إطار لوكهيد مارتن والمراحل السبع | [TASK-01.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-01.md) | مكتملة ومحققة |
+| **Task 02** | Reconnaissance | مرحلة الاستطلاع واستخدام Google Dorking والاستطلاع السلبي | [TASK-02.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-02.md) | مكتملة ومحققة |
+| **Task 03** | Weaponisation | مرحلة التسليح وتعتيم الشيفرات البرمجية واستخدام الماكرو | [TASK-03.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-03.md) | مكتملة ومحققة |
+| **Task 04** | Delivery | مرحلة التوصيل وثغرات اليوم الصفر والمصادقة متعددة العوامل | [TASK-04.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-04.md) | مكتملة ومحققة |
+| **Task 05** | Exploitation | مرحلة الاستغلال وتفعيل الحمولة على النظام المستهدف | [TASK-05.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-05.md) | مكتملة ومحققة |
+| **Task 06** | Installation | مرحلة التثبيت واستخدام Web Shell وقوائم السماح Allowlisting | [TASK-06.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-06.md) | مكتملة ومحققة |
+| **Task 07** | Command and Control (C2) | قنوات القيادة والتحكم، نفق DNS وبروتوكول HTTPS | [TASK-07.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-07.md) | مكتملة ومحققة |
+| **Task 08** | Actions on Objectives | تحقيق أهداف الهجوم، تسريب البيانات وبرمجيات الفدية | [TASK-08.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-08.md) | مكتملة ومحققة |
+| **Task 09** | Conclusion | النشاط التفاعلي لمحاكاة الهجوم واقتناص الراية الختامية | [TASK-09.md](../../04-CYBER-KILL-CHAIN/TASKS/TASK-09.md) | مكتملة ومحققة |
 
 ---
 

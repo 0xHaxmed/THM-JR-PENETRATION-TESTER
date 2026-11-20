@@ -121,19 +121,19 @@ The room consists of 13 progressive tasks:
 
 | Task # | Task Title | Question | Verified Answer | Stage A-G Detailed File |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | Introduction | Let's get started! | `No answer needed` | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-01.md) |
-| **02** | What is Intruder | In which tab can we define Attack type? | `Positions` | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-02.md) |
-| **03** | Positions | What symbol defines start and end of position? | `§` | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-03.md) |
-| **04** | Payloads | Which rule adds characters at the end? | `Add suffix` | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-04.md) |
-| **05** | Intro to Attack Types | What attack type cycles inserting one at a time? | `Sniper` | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-05.md) |
-| **06** | Sniper | Requests for 3 positions * 100 words? / Accepted sets? | Q1: `300`<br>Q2: `1` | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-06.md) |
-| **07** | Battering Ram | What would body parameters of first request be? | `username=admin&password=admin` | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-07.md) |
-| **08** | Pitchfork | Max number of payload sets in Pitchfork? | `20` | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-08.md) |
-| **09** | Cluster Bomb | Total requests for sets with 100, 2, and 30 lines? | `6000` | [TASK-09.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-09.md) |
-| **10** | Practical Example | Successful username and password combination? | `m.rivera:letmein1` | [TASK-10.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-10.md) |
-| **11** | Practical Challenge | Best attack type? / Attack execution / Flag value? | Q1: `Sniper`<br>Q2: `No answer needed`<br>Q3: `THM{MTMxNTg5NTUzMWM0OWRlYzUzMDVjMzJl}` | [TASK-11.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-11.md) |
-| **12** | Extra Mile Challenge | Successful admin credentials (username:password)? | `o.bennett:bella1` | [TASK-12.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-12.md) |
-| **13** | Conclusion | I can use Intruder! | `No answer needed` | [TASK-13.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/03-BURP-SUITE-INTRUDER/TASKS/TASK-13.md) |
+| **01** | Introduction | Let's get started! | `No answer needed` | [TASK-01.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-01.md) |
+| **02** | What is Intruder | In which tab can we define Attack type? | `Positions` | [TASK-02.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-02.md) |
+| **03** | Positions | What symbol defines start and end of position? | `§` | [TASK-03.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-03.md) |
+| **04** | Payloads | Which rule adds characters at the end? | `Add suffix` | [TASK-04.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-04.md) |
+| **05** | Intro to Attack Types | What attack type cycles inserting one at a time? | `Sniper` | [TASK-05.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-05.md) |
+| **06** | Sniper | Requests for 3 positions * 100 words? / Accepted sets? | Q1: `300`<br>Q2: `1` | [TASK-06.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-06.md) |
+| **07** | Battering Ram | What would body parameters of first request be? | `username=admin&password=admin` | [TASK-07.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-07.md) |
+| **08** | Pitchfork | Max number of payload sets in Pitchfork? | `20` | [TASK-08.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-08.md) |
+| **09** | Cluster Bomb | Total requests for sets with 100, 2, and 30 lines? | `6000` | [TASK-09.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-09.md) |
+| **10** | Practical Example | Successful username and password combination? | `m.rivera:letmein1` | [TASK-10.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-10.md) |
+| **11** | Practical Challenge | Best attack type? / Attack execution / Flag value? | Q1: `Sniper`<br>Q2: `No answer needed`<br>Q3: `THM{MTMxNTg5NTUzMWM0OWRlYzUzMDVjMzJl}` | [TASK-11.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-11.md) |
+| **12** | Extra Mile Challenge | Successful admin credentials (username:password)? | `o.bennett:bella1` | [TASK-12.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-12.md) |
+| **13** | Conclusion | I can use Intruder! | `No answer needed` | [TASK-13.md](../../03-BURP-SUITE-INTRUDER/TASKS/TASK-13.md) |
 
 ---
 

@@ -14,7 +14,7 @@ It confirms that the practitioner has developed a comprehensive conceptual found
 
 ### 🏛️ Assessment Review
 To review the complete synthesis questions and verified answers, refer to:
-* [Module Recap Assessment Questions (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/04-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [Module Recap Assessment Questions (RECAP-QUESTIONS.md)](../../04-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

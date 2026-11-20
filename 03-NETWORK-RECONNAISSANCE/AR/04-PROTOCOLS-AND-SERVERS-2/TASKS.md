@@ -13,13 +13,13 @@
 
 | رقم المهمة | عنوان المهمة الأصلي | المفهوم الأساسي | رابط ملف الحل المكتمل | الحالة |
 |---|---|---|---|---|
-| **Task 01** | Introduction | مدخل إلى استغلال البروتوكولات النصية وآليات التشفير | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-01.md) | مكتملة ومحققة |
-| **Task 02** | Sniffing Attack | اعتراض الحزم عبر tcpdump (port 23) وفلتر Wireshark (imap) | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-02.md) | مكتملة ومحققة |
-| **Task 03** | Man-in-the-Middle (MITM) Attack | تسميم الـ ARP، واجهات Ettercap الـ 3 وطرق استدعاء Bettercap الـ 3 | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-03.md) | مكتملة ومحققة |
-| **Task 04** | Transport Layer Security (TLS) | معايير التشفير وتأمين استعلامات الـ DNS عبر بروتوكول DoT | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-04.md) | مكتملة ومحققة |
-| **Task 05** | Secure Shell (SSH) | إدارة الخوادم المشفرة، كشف إصدار الكيرنل وتنزيل الملفات عبر scp | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-05.md) | مكتملة ومحققة |
-| **Task 06** | Password Attack | كسر كلمات مرور خوادم البريد IMAP عبر THC Hydra واستخراج butterfly | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-06.md) | مكتملة ومحققة |
-| **Task 07** | Summary | خلاصة أمن البروتوكولات ومصفوفة التحصين الشامل | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-07.md) | مكتملة ومحققة |
+| **Task 01** | Introduction | مدخل إلى استغلال البروتوكولات النصية وآليات التشفير | [TASK-01.md](../../04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-01.md) | مكتملة ومحققة |
+| **Task 02** | Sniffing Attack | اعتراض الحزم عبر tcpdump (port 23) وفلتر Wireshark (imap) | [TASK-02.md](../../04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-02.md) | مكتملة ومحققة |
+| **Task 03** | Man-in-the-Middle (MITM) Attack | تسميم الـ ARP، واجهات Ettercap الـ 3 وطرق استدعاء Bettercap الـ 3 | [TASK-03.md](../../04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-03.md) | مكتملة ومحققة |
+| **Task 04** | Transport Layer Security (TLS) | معايير التشفير وتأمين استعلامات الـ DNS عبر بروتوكول DoT | [TASK-04.md](../../04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-04.md) | مكتملة ومحققة |
+| **Task 05** | Secure Shell (SSH) | إدارة الخوادم المشفرة، كشف إصدار الكيرنل وتنزيل الملفات عبر scp | [TASK-05.md](../../04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-05.md) | مكتملة ومحققة |
+| **Task 06** | Password Attack | كسر كلمات مرور خوادم البريد IMAP عبر THC Hydra واستخراج butterfly | [TASK-06.md](../../04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-06.md) | مكتملة ومحققة |
+| **Task 07** | Summary | خلاصة أمن البروتوكولات ومصفوفة التحصين الشامل | [TASK-07.md](../../04-PROTOCOLS-AND-SERVERS-2/TASKS/TASK-07.md) | مكتملة ومحققة |
 
 ---
 

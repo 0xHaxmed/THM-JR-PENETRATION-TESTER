@@ -244,7 +244,7 @@ curl -s -X POST "http://MACHINE_IP/challenges/chall3.php" \
 
 ## 14. المراجع والقراءات المتقدمة (References & Further Reading)
 
-* [ملف المراجع والتوثيق المعتمد للغرفة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/REFERENCES.md)
-* [الملاحظات التقنية والشروح المعمقة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/ADDITIONAL-NOTES.md)
-* [مصفوفة مهام وحلول الغرفة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS.md)
+* [ملف المراجع والتوثيق المعتمد للغرفة](../../03-FILE-INCLUSION/REFERENCES.md)
+* [الملاحظات التقنية والشروح المعمقة](../../03-FILE-INCLUSION/ADDITIONAL-NOTES.md)
+* [مصفوفة مهام وحلول الغرفة](../../03-FILE-INCLUSION/TASKS.md)
 * [OWASP Path Traversal Verification Guide](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_Local_File_Inclusion)

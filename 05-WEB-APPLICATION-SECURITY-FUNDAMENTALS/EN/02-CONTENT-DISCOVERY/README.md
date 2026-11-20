@@ -209,24 +209,24 @@ gobuster vhost \
 ---
 
 ### 12. Tasks Index
-* [Task 01: What is Content Discovery? (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-01.md)
-* [Task 02: Manual Discovery - Robots.txt & Sitemap (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-02.md)
-* [Task 03: Manual Discovery - HTTP Headers & Frameworks (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-03.md)
-* [Task 04: OSINT - Search Engines & Wappalyzer (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-04.md)
-* [Task 05: OSINT - Wayback Machine & S3 Buckets (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-05.md)
-* [Task 06: Automated Discovery - Gobuster (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-06.md)
-* [Task 07: Subdomains and Virtual Hosts (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-07.md)
-* [Task 08: Summary & Methodology Review (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS/TASK-08.md)
-* See also: [Tasks Summary Table (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/TASKS.md)
+* [Task 01: What is Content Discovery? (TASK-01.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-01.md)
+* [Task 02: Manual Discovery - Robots.txt & Sitemap (TASK-02.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-02.md)
+* [Task 03: Manual Discovery - HTTP Headers & Frameworks (TASK-03.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-03.md)
+* [Task 04: OSINT - Search Engines & Wappalyzer (TASK-04.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-04.md)
+* [Task 05: OSINT - Wayback Machine & S3 Buckets (TASK-05.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-05.md)
+* [Task 06: Automated Discovery - Gobuster (TASK-06.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-06.md)
+* [Task 07: Subdomains and Virtual Hosts (TASK-07.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-07.md)
+* [Task 08: Summary & Methodology Review (TASK-08.md)](../../02-CONTENT-DISCOVERY/TASKS/TASK-08.md)
+* See also: [Tasks Summary Table (TASKS.md)](../../02-CONTENT-DISCOVERY/TASKS.md)
 
 ---
 
 ### 13. Additional Notes & Deep Dive
 * For comparative tool analysis (Gobuster vs. ffuf vs. dirsearch), SecLists engineering, Favicon hashing, and VHost architecture:
-  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](../../02-CONTENT-DISCOVERY/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standards
 * For official documentation, RFC specifications, and security references:
-  * [Official References & Documentation (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/REFERENCES.md)
+  * [Official References & Documentation (REFERENCES.md)](../../02-CONTENT-DISCOVERY/REFERENCES.md)

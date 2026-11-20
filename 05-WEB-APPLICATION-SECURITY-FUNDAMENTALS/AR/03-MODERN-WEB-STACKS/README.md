@@ -189,23 +189,23 @@ curl -s --path-as-is "http://10.10.x.x:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh" 
 ---
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
-* [المهمة 01: المقدمة ومنهجية فحص الأطر (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-01.md)
-* [المهمة 02: مكدس MERN وتلويث النموذج الأولي (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-02.md)
-* [المهمة 03: أطر عمل Next.js وتجاوز Middleware عبر CVE-2025-29927 (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-03.md)
-* [المهمة 04: إطار عمل Django وحقن SQL في ORDER BY عبر CVE-2021-35042 (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-04.md)
-* [المهمة 05: مكدس LAMP وثغرة Apache 2.4.49 RCE عبر CVE-2021-41773 (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-05.md)
-* [المهمة 06: الأتمتة وفحص البصمات بواسطة Nikto (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-06.md)
-* [المهمة 07: الخاتمة ومصفوفة المقارنة الأمنية (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-07.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS.md).
+* [المهمة 01: المقدمة ومنهجية فحص الأطر (TASK-01.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-01.md)
+* [المهمة 02: مكدس MERN وتلويث النموذج الأولي (TASK-02.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-02.md)
+* [المهمة 03: أطر عمل Next.js وتجاوز Middleware عبر CVE-2025-29927 (TASK-03.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-03.md)
+* [المهمة 04: إطار عمل Django وحقن SQL في ORDER BY عبر CVE-2021-35042 (TASK-04.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-04.md)
+* [المهمة 05: مكدس LAMP وثغرة Apache 2.4.49 RCE عبر CVE-2021-41773 (TASK-05.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-05.md)
+* [المهمة 06: الأتمتة وفحص البصمات بواسطة Nikto (TASK-06.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-06.md)
+* [المهمة 07: الخاتمة ومصفوفة المقارنة الأمنية (TASK-07.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-07.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../03-MODERN-WEB-STACKS/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل الداخلي لـ Prototype Pollution، وبروتوكول RSC Flight، وحقن XPath، وهندسة Normalization في Apache:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../03-MODERN-WEB-STACKS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على تقارير CVE وقواعد بيانات NVD ومعايير OWASP WSTG وأدلة الأطر الرسمية:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../03-MODERN-WEB-STACKS/REFERENCES.md)

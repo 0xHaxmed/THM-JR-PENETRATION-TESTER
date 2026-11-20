@@ -150,24 +150,24 @@ curl -sI http://target.thm:3000/ | grep -i "connect.sid"
 
 ### 11. Verification & Proof of Work
 * All 6 questions completed and verified with 100% accuracy, scoring 48/48 points.
-* Detailed analysis and feedback archived in [Recap Questions Analysis (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md).
+* Detailed analysis and feedback archived in [Recap Questions Analysis (RECAP-QUESTIONS.md)](../../06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md).
 
 ---
 
 ### 12. Tasks Index
-* [Recap Questions Comprehensive Breakdown (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [Recap Questions Comprehensive Breakdown (RECAP-QUESTIONS.md)](../../06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 * See also the foundational rooms of Module 05:
-  * [Room 01: Walking An Application (README_EN.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/README_EN.md)
-  * [Room 02: Content Discovery (README_EN.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/README_EN.md)
-  * [Room 03: Modern Web Stacks (README_EN.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/README_EN.md)
-  * [Room 04: Web Server Attacks - I (README_EN.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/README_EN.md)
-  * [Room 05: Web Server Attacks - II (README_EN.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/README_EN.md)
+  * [Room 01: Walking An Application (README_EN.md)](../../01-WALKING-AN-APPLICATION/README_EN.md)
+  * [Room 02: Content Discovery (README_EN.md)](../../02-CONTENT-DISCOVERY/README_EN.md)
+  * [Room 03: Modern Web Stacks (README_EN.md)](../../03-MODERN-WEB-STACKS/README_EN.md)
+  * [Room 04: Web Server Attacks - I (README_EN.md)](../../04-WEB-SERVER-ATTACKS-I/README_EN.md)
+  * [Room 05: Web Server Attacks - II (README_EN.md)](../../05-WEB-SERVER-ATTACKS-II/README_EN.md)
 
 ---
 
 ### 13. Additional Notes & Deep Dive
 * For comparative HTTP RFC standards and security header deployment strategies:
-  * [Recap Questions Technical Deep Dive (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+  * [Recap Questions Technical Deep Dive (RECAP-QUESTIONS.md)](../../06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

@@ -102,13 +102,13 @@ This module delivers an exhaustive technical breakdown of session management mec
 
 | Task # | Task Title | Core Focus | Verified Outcome | Detailed Documentation |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | Introduction | Overview of HTTP statelessness & session requirements | `No answer needed` | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS/TASK-01.md) |
-| **02** | What is Session Management? | Analysis of the 4 session lifecycle states | 4 Conceptual Questions Solved | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS/TASK-02.md) |
-| **03** | Authentication vs Authorisation | Deep dive into the IAAA Access Control Model | 3 Conceptual Questions Solved | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS/TASK-03.md) |
-| **04** | Cookies vs Tokens | Dissection of cookie attributes & JWT transport | 3 Technical Questions Solved | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS/TASK-04.md) |
-| **05** | Securing the Session Lifecycle | Threat modeling across each lifecycle phase | 4 Security Scenarios Resolved | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS/TASK-05.md) |
-| **06** | Exploiting Insecure Session Management | Practical lab: Session tampering & privilege escalation | Flag + 5 Institutional Records | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS/TASK-06.md) |
-| **07** | Conclusion | Synthesis of core learnings & curriculum transition | `No answer needed` | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS/TASK-07.md) |
+| **01** | Introduction | Overview of HTTP statelessness & session requirements | `No answer needed` | [TASK-01.md](../../01-SESSION-MANAGEMENT/TASKS/TASK-01.md) |
+| **02** | What is Session Management? | Analysis of the 4 session lifecycle states | 4 Conceptual Questions Solved | [TASK-02.md](../../01-SESSION-MANAGEMENT/TASKS/TASK-02.md) |
+| **03** | Authentication vs Authorisation | Deep dive into the IAAA Access Control Model | 3 Conceptual Questions Solved | [TASK-03.md](../../01-SESSION-MANAGEMENT/TASKS/TASK-03.md) |
+| **04** | Cookies vs Tokens | Dissection of cookie attributes & JWT transport | 3 Technical Questions Solved | [TASK-04.md](../../01-SESSION-MANAGEMENT/TASKS/TASK-04.md) |
+| **05** | Securing the Session Lifecycle | Threat modeling across each lifecycle phase | 4 Security Scenarios Resolved | [TASK-05.md](../../01-SESSION-MANAGEMENT/TASKS/TASK-05.md) |
+| **06** | Exploiting Insecure Session Management | Practical lab: Session tampering & privilege escalation | Flag + 5 Institutional Records | [TASK-06.md](../../01-SESSION-MANAGEMENT/TASKS/TASK-06.md) |
+| **07** | Conclusion | Synthesis of core learnings & curriculum transition | `No answer needed` | [TASK-07.md](../../01-SESSION-MANAGEMENT/TASKS/TASK-07.md) |
 
 ---
 
@@ -204,7 +204,7 @@ This module delivers an exhaustive technical breakdown of session management mec
 
 ## 14. References & Further Reading
 
-* [Authoritative References & Documentation](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/REFERENCES.md)
-* [Deep Technical Notes & Architectural Comparison](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/ADDITIONAL-NOTES.md)
-* [Task Matrix & Quick Reference](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS.md)
+* [Authoritative References & Documentation](../../01-SESSION-MANAGEMENT/REFERENCES.md)
+* [Deep Technical Notes & Architectural Comparison](../../01-SESSION-MANAGEMENT/ADDITIONAL-NOTES.md)
+* [Task Matrix & Quick Reference](../../01-SESSION-MANAGEMENT/TASKS.md)
 * [OWASP Session Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)

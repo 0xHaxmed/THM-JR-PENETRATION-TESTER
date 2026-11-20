@@ -24,11 +24,11 @@
 ---
 
 ### روابط ملفات المهام التفصيلية (7-Stage Methodology Links):
-* [المهمة 01: المقدمة وسياق الهجمات الميدانية (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-01.md)
-* [المهمة 02: التقاط بصمات IIS واكتشاف WebDAV (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-02.md)
-* [المهمة 03: تخمين الأسماء القصيرة 8.3 عبر علامة المدة (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-03.md)
-* [المهمة 04: استغلال WebDAV ورفع صدفة ASPX عبر NTLM (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-04.md)
-* [المهمة 05: صدفات ASPX وامتياز انتحال الرموز SeImpersonatePrivilege (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-05.md)
-* [المهمة 06: أخطاء التهيئة الشائعة في IIS وتسريب الملفات ومسار trace.axd (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-06.md)
-* [المهمة 07: أتمتة فحص IIS عبر سكربتات Nmap NSE (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-07.md)
-* [المهمة 08: الخاتمة ومخطط مسار الهجوم المتكامل (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-08.md)
+* [المهمة 01: المقدمة وسياق الهجمات الميدانية (TASK-01.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-01.md)
+* [المهمة 02: التقاط بصمات IIS واكتشاف WebDAV (TASK-02.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-02.md)
+* [المهمة 03: تخمين الأسماء القصيرة 8.3 عبر علامة المدة (TASK-03.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-03.md)
+* [المهمة 04: استغلال WebDAV ورفع صدفة ASPX عبر NTLM (TASK-04.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-04.md)
+* [المهمة 05: صدفات ASPX وامتياز انتحال الرموز SeImpersonatePrivilege (TASK-05.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-05.md)
+* [المهمة 06: أخطاء التهيئة الشائعة في IIS وتسريب الملفات ومسار trace.axd (TASK-06.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-06.md)
+* [المهمة 07: أتمتة فحص IIS عبر سكربتات Nmap NSE (TASK-07.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-07.md)
+* [المهمة 08: الخاتمة ومخطط مسار الهجوم المتكامل (TASK-08.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-08.md)

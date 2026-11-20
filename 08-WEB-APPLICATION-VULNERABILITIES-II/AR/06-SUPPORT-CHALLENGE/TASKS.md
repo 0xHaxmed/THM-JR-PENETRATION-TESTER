@@ -19,11 +19,11 @@
 
 | رقم المهمة (Task #) | عنوان المهمة (Task Title) | الهدف العملياتي (Operational Objective) | نوع السؤال / السؤال المطلوب | الإجابة المعتمدة (Accepted Answer) | حالة الإنجاز |
 | :---: | :--- | :--- | :--- | :--- | :---: |
-| **01** | [Task 01: Support Challenge](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/06-SUPPORT-CHALLENGE/TASKS/TASK-01.md) | اختراق منصة الدعم، تصعيد الصلاحيات إلى Admin، واستغلال حقن الأوامر للسيطرة على السيرفر | What is the flag value after logging in as admin? | `THM{I_AM_ADMIN999}` | ✅ منجز |
+| **01** | [Task 01: Support Challenge](../../06-SUPPORT-CHALLENGE/TASKS/TASK-01.md) | اختراق منصة الدعم، تصعيد الصلاحيات إلى Admin، واستغلال حقن الأوامر للسيطرة على السيرفر | What is the flag value after logging in as admin? | `THM{I_AM_ADMIN999}` | ✅ منجز |
 | | | | What is the content of the file /home/ubuntu/user.txt? | `THM{GOT_THE_FLAG001}` | ✅ منجز |
 
 ---
 
 ## 🎯 Quick Navigation to Detailed Task Files (روابط الوصول المباشر لملفات المهام)
 
-1. [TASK-01.md: Support Challenge (Mass Assignment Privesc, OS Command Injection & Foothold)](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/06-SUPPORT-CHALLENGE/TASKS/TASK-01.md)
+1. [TASK-01.md: Support Challenge (Mass Assignment Privesc, OS Command Injection & Foothold)](../../06-SUPPORT-CHALLENGE/TASKS/TASK-01.md)

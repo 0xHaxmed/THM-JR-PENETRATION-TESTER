@@ -158,24 +158,24 @@ curl -X POST http://MACHINE_IP/contact-msg -d "name=admin&msg=test"
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
 * للاطلاع على التوثيق التفصيلي لكل مهمة وفق منهجية المراحل السبع (A-G):
-  * [المهمة 01: التجول واستكشاف التطبيق (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-01.md)
-  * [المهمة 02: استكشاف مسارات الموقع (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-02.md)
-  * [المهمة 03: فحص الكود المصدري والأصول (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-03.md)
-  * [المهمة 04: فاحص عناصر الـ DOM وتجاوز الحجب (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-04.md)
-  * [المهمة 05: مصحح الجافاسكربت ونقاط التوقف (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-05.md)
-  * [المهمة 06: مراقب حركة الشبكة واستجابات الـ AJAX (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-06.md)
-  * [المهمة 07: تبويب التخزين ورايات الكوكيز (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-07.md)
-  * [المهمة 08: الخاتمة والربط المنهجي (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-08.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS.md).
+  * [المهمة 01: التجول واستكشاف التطبيق (TASK-01.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-01.md)
+  * [المهمة 02: استكشاف مسارات الموقع (TASK-02.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-02.md)
+  * [المهمة 03: فحص الكود المصدري والأصول (TASK-03.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-03.md)
+  * [المهمة 04: فاحص عناصر الـ DOM وتجاوز الحجب (TASK-04.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-04.md)
+  * [المهمة 05: مصحح الجافاسكربت ونقاط التوقف (TASK-05.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-05.md)
+  * [المهمة 06: مراقب حركة الشبكة واستجابات الـ AJAX (TASK-06.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-06.md)
+  * [المهمة 07: تبويب التخزين ورايات الكوكيز (TASK-07.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-07.md)
+  * [المهمة 08: الخاتمة والربط المنهجي (TASK-08.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-08.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../01-WALKING-AN-APPLICATION/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل المعماري لمحركات المتصفحات وخرائط المصدر وتسريبات المجلدات:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../01-WALKING-AN-APPLICATION/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على معايير OWASP ومستندات RFC 6265bis ودليل DevTools:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../01-WALKING-AN-APPLICATION/REFERENCES.md)

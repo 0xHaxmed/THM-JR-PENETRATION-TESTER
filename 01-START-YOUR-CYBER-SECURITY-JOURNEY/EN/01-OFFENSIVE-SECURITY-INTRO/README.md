@@ -112,11 +112,11 @@ flowchart LR
 
 ## 08. Tasks and Solutions
 Every task is documented independently in the `TASKS/` directory according to the Stage A–G standard:
-* [Task 01: Think like a Hacker! (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-01.md)
-* [Task 02: Starting the Lab (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-02.md)
-* [Task 03: Find Hidden Pages (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-03.md)
-* [Task 04: Attack the Admin Page (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-04.md)
-* [Task 05: Careers in Cyber Security (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-05.md)
+* [Task 01: Think like a Hacker! (TASK-01.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-01.md)
+* [Task 02: Starting the Lab (TASK-02.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-02.md)
+* [Task 03: Find Hidden Pages (TASK-03.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-03.md)
+* [Task 04: Attack the Admin Page (TASK-04.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-04.md)
+* [Task 05: Careers in Cyber Security (TASK-05.md)](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-05.md)
 
 ---
 

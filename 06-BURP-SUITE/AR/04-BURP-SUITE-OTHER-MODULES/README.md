@@ -112,17 +112,17 @@ flowchart TD
 
 | رقم المهمة | اسم المهمة (Task Name) | السؤال المعتمد (Question) | الإجابة الموثقة (Verified Answer) | ملف المرحلة السبع |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | Introduction | Deploy the machine attached... | `No answer needed` | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-01.md) |
-| **02** | Decoder: Overview | Which feature attempts auto-decode? | `Smart decode` | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-02.md) |
-| **03** | Decoder: En/Decoding | 1. Base64 encode?<br>2. URL decode?<br>3. Smart decode?<br>4. Base64->Hex->Octal? | Q1: `TGV0J3MgU3RhcnQgU2ltcGxl`<br>Q2: `Next: Decoding`<br>Q3: `47`<br>Q4: `24034214a720270024142d541357471232250253552c1162d1206c` | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-03.md) |
-| **04** | Decoder: Hashing | 1. SHA-256 in ASCII Hex?<br>2. MD4 in Base64?<br>3. Authentic SSH key? | Q1: `6b72350e719a8ef5af560830164b13596cb582757437e21d1879502072238abe`<br>Q2: `TcV4QGZZN7y7lwYFRMMoeA==`<br>Q3: `key3` | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-04.md) |
-| **05** | Comparer: Overview | Click me to proceed to the next task. | `No answer needed` | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-05.md) |
-| **06** | Comparer: Example | Compare the two responses by word... | `No answer needed` | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-06.md) |
-| **07** | Sequencer: Overview | What does Sequencer allow us to evaluate? | `Entropy` | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-07.md) |
-| **08** | Sequencer: Live Capture | Overall quality of randomness estimated? | `excellent` | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-08.md) |
-| **09** | Sequencer: Analysis | Click me to proceed to the next task. | `No answer needed` | [TASK-09.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-09.md) |
-| **10** | Organizer: Overview | Are saved requests read-only? (yea/nay) | `yea` | [TASK-10.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-10.md) |
-| **11** | Conclusion | I understand how to use Organizer... | `No answer needed` | [TASK-11.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-11.md) |
+| **01** | Introduction | Deploy the machine attached... | `No answer needed` | [TASK-01.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-01.md) |
+| **02** | Decoder: Overview | Which feature attempts auto-decode? | `Smart decode` | [TASK-02.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-02.md) |
+| **03** | Decoder: En/Decoding | 1. Base64 encode?<br>2. URL decode?<br>3. Smart decode?<br>4. Base64->Hex->Octal? | Q1: `TGV0J3MgU3RhcnQgU2ltcGxl`<br>Q2: `Next: Decoding`<br>Q3: `47`<br>Q4: `24034214a720270024142d541357471232250253552c1162d1206c` | [TASK-03.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-03.md) |
+| **04** | Decoder: Hashing | 1. SHA-256 in ASCII Hex?<br>2. MD4 in Base64?<br>3. Authentic SSH key? | Q1: `6b72350e719a8ef5af560830164b13596cb582757437e21d1879502072238abe`<br>Q2: `TcV4QGZZN7y7lwYFRMMoeA==`<br>Q3: `key3` | [TASK-04.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-04.md) |
+| **05** | Comparer: Overview | Click me to proceed to the next task. | `No answer needed` | [TASK-05.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-05.md) |
+| **06** | Comparer: Example | Compare the two responses by word... | `No answer needed` | [TASK-06.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-06.md) |
+| **07** | Sequencer: Overview | What does Sequencer allow us to evaluate? | `Entropy` | [TASK-07.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-07.md) |
+| **08** | Sequencer: Live Capture | Overall quality of randomness estimated? | `excellent` | [TASK-08.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-08.md) |
+| **09** | Sequencer: Analysis | Click me to proceed to the next task. | `No answer needed` | [TASK-09.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-09.md) |
+| **10** | Organizer: Overview | Are saved requests read-only? (yea/nay) | `yea` | [TASK-10.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-10.md) |
+| **11** | Conclusion | I understand how to use Organizer... | `No answer needed` | [TASK-11.md](../../04-BURP-SUITE-OTHER-MODULES/TASKS/TASK-11.md) |
 
 ---
 

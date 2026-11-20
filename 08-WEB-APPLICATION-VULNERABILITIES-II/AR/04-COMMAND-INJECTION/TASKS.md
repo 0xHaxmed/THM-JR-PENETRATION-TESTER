@@ -2,12 +2,12 @@
 
 | رقم المهمة | عنوان المهمة | عدد الأسئلة | الموضوع الجوهري | حالة الإنجاز | رابط ملف الشرح التفصيلي |
 | :---: | :--- | :---: | :--- | :---: | :---: |
-| **01** | Introduction | 0 | مدخل حقن أوامر نظام التشغيل وسياق الصلاحيات وتصنيف CWE-78 | مكتمل ✅ | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-01.md) |
-| **02** | Discovering Command Injection | 3 | تشريح الدوال المصابة في PHP (`$title`, `GET`) و Flask (`/id`) | مكتمل ✅ | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-02.md) |
-| **03** | Exploiting Command Injection | 3 | الحمولات المرئية والعمياء (`whoami`, `ping`, `timeout`) | مكتمل ✅ | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-03.md) |
-| **04** | Practical | 2 | المعمل العملي: اكتشاف مستخدم `www-data` واستخراج العلم | مكتمل ✅ | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-04.md) |
-| **05** | Remediation | 1 | التحصين الهندسي ومفهوم تطهير المدخلات (`sanitisation`) | مكتمل ✅ | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-05.md) |
-| **06** | Conclusion | 0 | الخاتمة ومراجعة استراتيجيات الدفاع والانتقال إلى API Pentesting | مكتمل ✅ | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-06.md) |
+| **01** | Introduction | 0 | مدخل حقن أوامر نظام التشغيل وسياق الصلاحيات وتصنيف CWE-78 | مكتمل ✅ | [TASK-01.md](../../04-COMMAND-INJECTION/TASKS/TASK-01.md) |
+| **02** | Discovering Command Injection | 3 | تشريح الدوال المصابة في PHP (`$title`, `GET`) و Flask (`/id`) | مكتمل ✅ | [TASK-02.md](../../04-COMMAND-INJECTION/TASKS/TASK-02.md) |
+| **03** | Exploiting Command Injection | 3 | الحمولات المرئية والعمياء (`whoami`, `ping`, `timeout`) | مكتمل ✅ | [TASK-03.md](../../04-COMMAND-INJECTION/TASKS/TASK-03.md) |
+| **04** | Practical | 2 | المعمل العملي: اكتشاف مستخدم `www-data` واستخراج العلم | مكتمل ✅ | [TASK-04.md](../../04-COMMAND-INJECTION/TASKS/TASK-04.md) |
+| **05** | Remediation | 1 | التحصين الهندسي ومفهوم تطهير المدخلات (`sanitisation`) | مكتمل ✅ | [TASK-05.md](../../04-COMMAND-INJECTION/TASKS/TASK-05.md) |
+| **06** | Conclusion | 0 | الخاتمة ومراجعة استراتيجيات الدفاع والانتقال إلى API Pentesting | مكتمل ✅ | [TASK-06.md](../../04-COMMAND-INJECTION/TASKS/TASK-06.md) |
 
 ---
 

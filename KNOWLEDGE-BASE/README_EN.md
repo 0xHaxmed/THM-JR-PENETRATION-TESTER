@@ -10,7 +10,7 @@ Rather than duplicating extensive architectural or protocol breakdowns across mu
 ---
 
 ### 📂 Knowledge Base Structure
-1. **[Glossary (GLOSSARY)](file:///e:/THM-JR-PENETRATION-TESTER/KNOWLEDGE-BASE/GLOSSARY/GLOSSARY_EN.md):** Comprehensive cybersecurity dictionary with context, RFC references, and room links.
+1. **[Glossary (GLOSSARY)](./GLOSSARY/GLOSSARY_EN.md):** Comprehensive cybersecurity dictionary with context, RFC references, and room links.
 2. **Methodologies (METHODOLOGIES):** Industry penetration testing frameworks (PTES, NIST SP 800-115, OSSTMM, OWASP WSTG).
 3. **Command Reference (COMMAND-REFERENCE):** Exhaustive syntax and parameter breakdowns for terminal utilities.
 4. **Tools Reference (TOOLS-REFERENCE):** Architectural internals and advanced options for offensive tooling (`nmap`, `burpsuite`, `gobuster`, `ffuf`, `msfconsole`, `netcat`, `socat`).

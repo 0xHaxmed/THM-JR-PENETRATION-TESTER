@@ -150,24 +150,24 @@ sudo nmap -sS -p 1-1000 -T4 --min-parallelism=64 MACHINE_IP -oN basic-scan.txt
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
 * للاطلاع على التوثيق التفصيلي لكل مهمة وفق منهجية المراحل السبع (A-G):
-  * [المهمة 01: المقدمة (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-01.md)
-  * [المهمة 02: منافذ TCP و UDP وحالات Nmap الست (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-02.md)
-  * [المهمة 03: رايات مكدس بروتوكول TCP (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-03.md)
-  * [المهمة 04: فحص الاتصال الكامل عبر TCP (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-04.md)
-  * [المهمة 05: فحص التخفي نصف المفتوح TCP SYN (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-05.md)
-  * [المهمة 06: فحص بروتوكول UDP (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-06.md)
-  * [المهمة 07: ضبط النطاق والتوقيت والتوازي (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-07.md)
-  * [المهمة 08: الخلاصة والجدول المرجعي (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-08.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS.md).
+  * [المهمة 01: المقدمة (TASK-01.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-01.md)
+  * [المهمة 02: منافذ TCP و UDP وحالات Nmap الست (TASK-02.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-02.md)
+  * [المهمة 03: رايات مكدس بروتوكول TCP (TASK-03.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-03.md)
+  * [المهمة 04: فحص الاتصال الكامل عبر TCP (TASK-04.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-04.md)
+  * [المهمة 05: فحص التخفي نصف المفتوح TCP SYN (TASK-05.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-05.md)
+  * [المهمة 06: فحص بروتوكول UDP (TASK-06.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-06.md)
+  * [المهمة 07: ضبط النطاق والتوقيت والتوازي (TASK-07.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-07.md)
+  * [المهمة 08: الخلاصة والجدول المرجعي (TASK-08.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-08.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل المعماري لشروط حالات المنافذ الست وتقييد رسائل أخطاء ICMP في النواة:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../02-NMAP-BASIC-PORT-SCANS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على المعايير الرسمية RFC 793 و RFC 768 ودليل Nmap المرجعي:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../02-NMAP-BASIC-PORT-SCANS/REFERENCES.md)

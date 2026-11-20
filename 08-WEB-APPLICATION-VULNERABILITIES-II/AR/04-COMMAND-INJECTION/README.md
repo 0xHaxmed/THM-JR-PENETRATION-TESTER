@@ -210,7 +210,7 @@
 
 ## 14. المراجع والقراءات المتقدمة (References & Further Reading)
 
-* [ملف المراجع والتوثيق المعتمد للغرفة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/REFERENCES.md)
-* [الملاحظات التقنية وأساليب الالتفاف الشاملة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/ADDITIONAL-NOTES.md)
-* [مصفوفة مهام وحلول الغرفة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS.md)
+* [ملف المراجع والتوثيق المعتمد للغرفة](../../04-COMMAND-INJECTION/REFERENCES.md)
+* [الملاحظات التقنية وأساليب الالتفاف الشاملة](../../04-COMMAND-INJECTION/ADDITIONAL-NOTES.md)
+* [مصفوفة مهام وحلول الغرفة](../../04-COMMAND-INJECTION/TASKS.md)
 * [OWASP Command Injection Defense Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/OS_Command_Injection_Defense_Cheat_Sheet.html)

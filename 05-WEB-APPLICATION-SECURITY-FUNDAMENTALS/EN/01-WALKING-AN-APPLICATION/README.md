@@ -150,24 +150,24 @@ curl -X POST http://MACHINE_IP/contact-msg -d "name=auditor&msg=test"
 
 ### 12. Tasks Index & Matrix
 * For detailed 7-stage task analyses:
-  * [Task 01: Walking An Application (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-01.md)
-  * [Task 02: Exploring The Website (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-02.md)
-  * [Task 03: Viewing The Page Source (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-03.md)
-  * [Task 04: Developer Tools - Inspector (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-04.md)
-  * [Task 05: Developer Tools - Debugger (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-05.md)
-  * [Task 06: Developer Tools - Network (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-06.md)
-  * [Task 07: Developer Tools - Storage (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-07.md)
-  * [Task 08: Conclusion (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS/TASK-08.md)
-* See also [Tasks Index & Answers Summary (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/TASKS.md).
+  * [Task 01: Walking An Application (TASK-01.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-01.md)
+  * [Task 02: Exploring The Website (TASK-02.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-02.md)
+  * [Task 03: Viewing The Page Source (TASK-03.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-03.md)
+  * [Task 04: Developer Tools - Inspector (TASK-04.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-04.md)
+  * [Task 05: Developer Tools - Debugger (TASK-05.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-05.md)
+  * [Task 06: Developer Tools - Network (TASK-06.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-06.md)
+  * [Task 07: Developer Tools - Storage (TASK-07.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-07.md)
+  * [Task 08: Conclusion (TASK-08.md)](../../01-WALKING-AN-APPLICATION/TASKS/TASK-08.md)
+* See also [Tasks Index & Answers Summary (TASKS.md)](../../01-WALKING-AN-APPLICATION/TASKS.md).
 
 ---
 
 ### 13. Additional Technical Notes
 * For in-depth browser rendering pipelines, source map exploitation, and RFC 6265bis specifications:
-  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](../../01-WALKING-AN-APPLICATION/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standard RFCs
 * OWASP standards, RFC 6265bis, and DevTools reference cheatsheet:
-  * [Official References & Cheatsheet (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/REFERENCES.md)
+  * [Official References & Cheatsheet (REFERENCES.md)](../../01-WALKING-AN-APPLICATION/REFERENCES.md)

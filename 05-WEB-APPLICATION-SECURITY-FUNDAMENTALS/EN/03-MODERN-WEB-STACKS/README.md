@@ -205,23 +205,23 @@ curl -s --path-as-is "http://10.10.x.x:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh" 
 ---
 
 ### 12. Tasks Index
-* [Task 01: Introduction & Fingerprinting Methodology (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-01.md)
-* [Task 02: MERN Stack & Prototype Pollution (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-02.md)
-* [Task 03: React / Next.js & CVE-2025-29927 Middleware Bypass (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-03.md)
-* [Task 04: Django & CVE-2021-35042 ORDER BY SQL Injection (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-04.md)
-* [Task 05: LAMP Architecture & CVE-2021-41773 Apache RCE (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-05.md)
-* [Task 06: Automated Stack Scanning with Nikto (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-06.md)
-* [Task 07: Synthesis & Architectural Conclusion (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS/TASK-07.md)
-* See also: [Tasks & Answers Index (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/TASKS.md)
+* [Task 01: Introduction & Fingerprinting Methodology (TASK-01.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-01.md)
+* [Task 02: MERN Stack & Prototype Pollution (TASK-02.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-02.md)
+* [Task 03: React / Next.js & CVE-2025-29927 Middleware Bypass (TASK-03.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-03.md)
+* [Task 04: Django & CVE-2021-35042 ORDER BY SQL Injection (TASK-04.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-04.md)
+* [Task 05: LAMP Architecture & CVE-2021-41773 Apache RCE (TASK-05.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-05.md)
+* [Task 06: Automated Stack Scanning with Nikto (TASK-06.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-06.md)
+* [Task 07: Synthesis & Architectural Conclusion (TASK-07.md)](../../03-MODERN-WEB-STACKS/TASKS/TASK-07.md)
+* See also: [Tasks & Answers Index (TASKS.md)](../../03-MODERN-WEB-STACKS/TASKS.md)
 
 ---
 
 ### 13. Additional Notes & Deep Dive
 * For in-depth analysis of V8 Prototype Pollution, RSC Flight Protocol internals, XPath error injection, and Apache path normalization:
-  * [Additional Notes & Technical Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Technical Deep Dive (ADDITIONAL-NOTES.md)](../../03-MODERN-WEB-STACKS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standards
 * For CVE advisories, RFC specifications, and OWASP references:
-  * [Official References & Security Standards (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/REFERENCES.md)
+  * [Official References & Security Standards (REFERENCES.md)](../../03-MODERN-WEB-STACKS/REFERENCES.md)

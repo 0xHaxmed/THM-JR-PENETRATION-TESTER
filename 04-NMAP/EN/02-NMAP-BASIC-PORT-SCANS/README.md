@@ -150,24 +150,24 @@ sudo nmap -sS -p 1-1000 -T4 --min-parallelism=64 MACHINE_IP -oN basic-scan.txt
 
 ### 12. Tasks Index & Matrix
 * For detailed 7-stage task analyses:
-  * [Task 01: Introduction (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-01.md)
-  * [Task 02: TCP and UDP Ports (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-02.md)
-  * [Task 03: TCP Flags (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-03.md)
-  * [Task 04: TCP Connect Scan (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-04.md)
-  * [Task 05: TCP SYN Scan (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-05.md)
-  * [Task 06: UDP Scan (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-06.md)
-  * [Task 07: Fine-Tuning Scope and Performance (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-07.md)
-  * [Task 08: Summary (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-08.md)
-* See also [Tasks Index & Answers Summary (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/TASKS.md).
+  * [Task 01: Introduction (TASK-01.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-01.md)
+  * [Task 02: TCP and UDP Ports (TASK-02.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-02.md)
+  * [Task 03: TCP Flags (TASK-03.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-03.md)
+  * [Task 04: TCP Connect Scan (TASK-04.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-04.md)
+  * [Task 05: TCP SYN Scan (TASK-05.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-05.md)
+  * [Task 06: UDP Scan (TASK-06.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-06.md)
+  * [Task 07: Fine-Tuning Scope and Performance (TASK-07.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-07.md)
+  * [Task 08: Summary (TASK-08.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS/TASK-08.md)
+* See also [Tasks Index & Answers Summary (TASKS.md)](../../02-NMAP-BASIC-PORT-SCANS/TASKS.md).
 
 ---
 
 ### 13. Additional Technical Notes
 * For in-depth kernel rate-limiting mechanics and Snort detection signatures:
-  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](../../02-NMAP-BASIC-PORT-SCANS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standard RFCs
 * Standard references, RFC 793, RFC 768, and tactical cheat sheet:
-  * [Official References & Cheatsheet (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/02-NMAP-BASIC-PORT-SCANS/REFERENCES.md)
+  * [Official References & Cheatsheet (REFERENCES.md)](../../02-NMAP-BASIC-PORT-SCANS/REFERENCES.md)

@@ -14,4 +14,4 @@ This document summarizes the challenge task, question, and verified solution for
 
 ## Detailed Task Documentation Links
 
-- [Task 01: Forward — Resource-Based Constrained Delegation (RBCD) Abuse](file:///e:/THM-JR-PENETRATION-TESTER/14-ACTIVE-DIRECTORY-SECURITY-TESTING-BASICS/09-FORWARD-CHALLENGE/TASKS/TASK-01.md)
+- [Task 01: Forward — Resource-Based Constrained Delegation (RBCD) Abuse](../../09-FORWARD-CHALLENGE/TASKS/TASK-01.md)

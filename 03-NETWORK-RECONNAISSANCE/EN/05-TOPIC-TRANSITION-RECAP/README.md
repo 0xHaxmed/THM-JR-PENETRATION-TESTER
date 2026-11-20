@@ -15,7 +15,7 @@ This assessment bridges the practical and theoretical competencies mastered acro
 
 ### 🏛️ Topic Transition Assessment Index
 To review the official questions, verified solutions, and pedagogical explanations, refer to:
-* [Module 03 Recap Questions and Solutions (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/05-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [Module 03 Recap Questions and Solutions (RECAP-QUESTIONS.md)](../../05-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

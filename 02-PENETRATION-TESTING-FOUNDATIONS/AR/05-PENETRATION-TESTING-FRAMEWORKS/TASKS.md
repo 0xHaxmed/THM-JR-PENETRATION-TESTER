@@ -13,16 +13,16 @@
 
 | رقم المهمة | عنوان المهمة الأصلي | المفهوم الأساسي | رابط ملف الحل المكتمل | الحالة |
 |---|---|---|---|---|
-| **Task 01** | Introduction | فوائد استخدام الأطر المعيارية (الشمولية والامتثال القانوني) | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-01.md) | مكتملة ومحققة |
-| **Task 02** | OSSTMM | مقاييس تقييم المخاطر الكمية (RAV) ومرحلة الاستعلام (Inquiry) | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-02.md) | مكتملة ومحققة |
-| **Task 03** | OWASP WSTG | معرّف فحص المدخلات (WSTG-INPV) والمرحلة 3 في الـ SDLC | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-03.md) | مكتملة ومحققة |
-| **Task 04** | NIST SP 800-115 | التحقق اليدوي من صحة الثغرات (Target vulnerability validation) | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-04.md) | مكتملة ومحققة |
-| **Task 05** | PTES | المرحلة الأولى لتحديد النطاق وقواعد الاشتباك (المرحلة 1) | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-05.md) | مكتملة ومحققة |
-| **Task 06** | ISSAF | نموذج الخطوات التسع والخطوة النهائية لتغطية الآثار (Covering tracks) | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-06.md) | مكتملة ومحققة |
-| **Task 07** | MITRE ATT&CK | أعمدة التكتيكات وصفوف التقنيات ومعرّف ثغرات الويب (T1190) | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-07.md) | مكتملة ومحققة |
-| **Task 08** | Other Notable Frameworks | أطر بطاقات الدفع (PCI DSS)، تطبيقات الهواتف (MASTG)، والسحابة (CCM) | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-08.md) | مكتملة ومحققة |
-| **Task 09** | Choosing the Right Framework | المواءمة للوكالات الفيدرالية (NIST) والدمج الهجين (WSTG,MASTG,PCI DSS) | [TASK-09.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-09.md) | مكتملة ومحققة |
-| **Task 10** | Conclusion | النشاط التفاعلي الشامل واستخراج راية الغرفة | [TASK-10.md](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-10.md) | مكتملة ومحققة |
+| **Task 01** | Introduction | فوائد استخدام الأطر المعيارية (الشمولية والامتثال القانوني) | [TASK-01.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-01.md) | مكتملة ومحققة |
+| **Task 02** | OSSTMM | مقاييس تقييم المخاطر الكمية (RAV) ومرحلة الاستعلام (Inquiry) | [TASK-02.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-02.md) | مكتملة ومحققة |
+| **Task 03** | OWASP WSTG | معرّف فحص المدخلات (WSTG-INPV) والمرحلة 3 في الـ SDLC | [TASK-03.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-03.md) | مكتملة ومحققة |
+| **Task 04** | NIST SP 800-115 | التحقق اليدوي من صحة الثغرات (Target vulnerability validation) | [TASK-04.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-04.md) | مكتملة ومحققة |
+| **Task 05** | PTES | المرحلة الأولى لتحديد النطاق وقواعد الاشتباك (المرحلة 1) | [TASK-05.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-05.md) | مكتملة ومحققة |
+| **Task 06** | ISSAF | نموذج الخطوات التسع والخطوة النهائية لتغطية الآثار (Covering tracks) | [TASK-06.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-06.md) | مكتملة ومحققة |
+| **Task 07** | MITRE ATT&CK | أعمدة التكتيكات وصفوف التقنيات ومعرّف ثغرات الويب (T1190) | [TASK-07.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-07.md) | مكتملة ومحققة |
+| **Task 08** | Other Notable Frameworks | أطر بطاقات الدفع (PCI DSS)، تطبيقات الهواتف (MASTG)، والسحابة (CCM) | [TASK-08.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-08.md) | مكتملة ومحققة |
+| **Task 09** | Choosing the Right Framework | المواءمة للوكالات الفيدرالية (NIST) والدمج الهجين (WSTG,MASTG,PCI DSS) | [TASK-09.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-09.md) | مكتملة ومحققة |
+| **Task 10** | Conclusion | النشاط التفاعلي الشامل واستخراج راية الغرفة | [TASK-10.md](../../05-PENETRATION-TESTING-FRAMEWORKS/TASKS/TASK-10.md) | مكتملة ومحققة |
 
 ---
 

@@ -17,23 +17,23 @@
 
 | رقم المهمة (Task #) | عنوان المهمة (Task Title) | الهدف العملياتي (Operational Objective) | نوع السؤال / السؤال المطلوب | الإجابة المعتمدة (Accepted Answer) | حالة الإنجاز |
 | :---: | :--- | :--- | :--- | :--- | :---: |
-| **01** | [Task 01: Introduction](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-01.md) | التعرف على أهداف الغرفة وتصنيفات IAAA المشمولة | I am ready to learn about IAAA failures! | `No answer needed` | ✅ منجز |
-| **02** | [Task 02: What does IAAA Stand For?](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-02.md) | فهم ركائز منظومة الأمان الرباعية وتسلسلها | What does IAAA stand for? | `Identity, Authentication, Authorisation, Accountability` | ✅ منجز |
-| **03** | [Task 03: A01: Broken Access Control](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-03.md) | استغلال ثغرة IDOR وتصعيد الصلاحيات الأفقي | What type of privilege escalation describes viewing another user's data with the same permission level? | `Horizontal` | ✅ منجز |
+| **01** | [Task 01: Introduction](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-01.md) | التعرف على أهداف الغرفة وتصنيفات IAAA المشمولة | I am ready to learn about IAAA failures! | `No answer needed` | ✅ منجز |
+| **02** | [Task 02: What does IAAA Stand For?](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-02.md) | فهم ركائز منظومة الأمان الرباعية وتسلسلها | What does IAAA stand for? | `Identity, Authentication, Authorisation, Accountability` | ✅ منجز |
+| **03** | [Task 03: A01: Broken Access Control](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-03.md) | استغلال ثغرة IDOR وتصعيد الصلاحيات الأفقي | What type of privilege escalation describes viewing another user's data with the same permission level? | `Horizontal` | ✅ منجز |
 | | | | What is the flag from the millionaire user's note? | `THM{Found.the.Millionare!}` | ✅ منجز |
-| **04** | [Task 04: A07: Authentication Failures](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-04.md) | استغلال Account Confusion بالاسم `aDmiN` | What is the flag displayed on the admin user's dashboard? | `THM{Account.confusion.FTW!}` | ✅ منجز |
-| **05** | [Task 05: A09: Logging & Alerting Failures](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-05.md) | التحقيق الجنائي الرقمي في سجلات خادم الويب | What is the IP address of the attacker performing the brute-force attack? | `203.0.113.45` | ✅ منجز |
+| **04** | [Task 04: A07: Authentication Failures](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-04.md) | استغلال Account Confusion بالاسم `aDmiN` | What is the flag displayed on the admin user's dashboard? | `THM{Account.confusion.FTW!}` | ✅ منجز |
+| **05** | [Task 05: A09: Logging & Alerting Failures](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-05.md) | التحقيق الجنائي الرقمي في سجلات خادم الويب | What is the IP address of the attacker performing the brute-force attack? | `203.0.113.45` | ✅ منجز |
 | | | | Which username was compromised during the attack? | `admin` | ✅ منجز |
 | | | | What sensitive admin endpoint was accessed by the attacker? | `/supersecretadminstuff` | ✅ منجز |
-| **06** | [Task 06: Conclusion](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-06.md) | تلخيص ركائز الدفاع وخاتمة الغرفة | I understand the importance of a secure IAAA implementation in my application! | `No answer needed` | ✅ منجز |
+| **06** | [Task 06: Conclusion](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-06.md) | تلخيص ركائز الدفاع وخاتمة الغرفة | I understand the importance of a secure IAAA implementation in my application! | `No answer needed` | ✅ منجز |
 
 ---
 
 ## 🎯 Quick Navigation to Detailed Task Files (روابط الوصول المباشر لملفات المهام)
 
-1. [TASK-01.md: Introduction](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-01.md)
-2. [TASK-02.md: What does IAAA Stand For?](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-02.md)
-3. [TASK-03.md: A01: Broken Access Control (IDOR & Horizontal Escalation)](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-03.md)
-4. [TASK-04.md: A07: Authentication Failures (Account Confusion)](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-04.md)
-5. [TASK-05.md: A09: Logging & Alerting Failures (Forensic Web Log Analysis)](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-05.md)
-6. [TASK-06.md: Conclusion & Defensive Architecture](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-06.md)
+1. [TASK-01.md: Introduction](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-01.md)
+2. [TASK-02.md: What does IAAA Stand For?](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-02.md)
+3. [TASK-03.md: A01: Broken Access Control (IDOR & Horizontal Escalation)](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-03.md)
+4. [TASK-04.md: A07: Authentication Failures (Account Confusion)](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-04.md)
+5. [TASK-05.md: A09: Logging & Alerting Failures (Forensic Web Log Analysis)](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-05.md)
+6. [TASK-06.md: Conclusion & Defensive Architecture](../../01-OWASP-TOP-10-2025-IAAA-FAILURES/TASKS/TASK-06.md)

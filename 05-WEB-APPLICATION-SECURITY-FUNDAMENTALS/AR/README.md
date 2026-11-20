@@ -11,17 +11,17 @@
 
 ### 🗂️ فهرس غرف الموديول (Module Rooms Index)
 
-1. [الغرفة 01: التجول داخل كود التطبيق (Walking An Application)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/README_AR.md)
+1. [الغرفة 01: التجول داخل كود التطبيق (Walking An Application)](../01-WALKING-AN-APPLICATION/README_AR.md)
    * الفحص الأمني للواجهة الأمامية عبر أدوات المطور (DevTools)، استخراج التعليقات، فحص ملفات الجافاسكربت، فحص الشبكة، وتعديل الكوكيز والتخزين المحلي.
-2. [الغرفة 02: استكشاف المحتوى والمسارات (Content Discovery)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/README_AR.md)
+2. [الغرفة 02: استكشاف المحتوى والمسارات (Content Discovery)](../02-CONTENT-DISCOVERY/README_AR.md)
    * كشف المسارات الخفية والصفحات الإدارية عبر الطرق اليدوية (robots.txt, favicon hashing) والتخمين الآلي عبر أداة Gobuster.
-3. [الغرفة 03: مكدسات الويب الحديثة (Modern Web Stacks)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/README_AR.md)
+3. [الغرفة 03: مكدسات الويب الحديثة (Modern Web Stacks)](../03-MODERN-WEB-STACKS/README_AR.md)
    * تشريح بنية المكدسات المعاصرة (MERN, Next.js, Django, LAMP) والتعامل مع واجهات الـ API وتقنيات الـ SSR و CSR.
-4. [الغرفة 04: هجمات خوادم الويب - الجزء الأول (Web Server Attacks - I)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/README_AR.md)
+4. [الغرفة 04: هجمات خوادم الويب - الجزء الأول (Web Server Attacks - I)](../04-WEB-SERVER-ATTACKS-I/README_AR.md)
    * استغلال ثغرات وأخطاء تكوين خوادم الويب مفتوحة المصدر: Apache Path Traversal و Nginx misconfigurations.
-5. [الغرفة 05: هجمات خوادم الويب - الجزء الثاني (Web Server Attacks - II)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/README_AR.md)
+5. [الغرفة 05: هجمات خوادم الويب - الجزء الثاني (Web Server Attacks - II)](../05-WEB-SERVER-ATTACKS-II/README_AR.md)
    * اختراق خوادم Microsoft IIS عبر تعداد ملفات Tilde القصيرة (8.3 filenames) واستغلال امتداد WebDAV لرفع الشل.
-6. [الغرفة 06: تقييم ختام الوحدة (Topic Transition Recap)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/06-TOPIC-TRANSITION-RECAP/README_AR.md)
+6. [الغرفة 06: تقييم ختام الوحدة (Topic Transition Recap)](../06-TOPIC-TRANSITION-RECAP/README_AR.md)
    * مراجعة توليفية واختبار تقييمي لمفاهيم أمان الويب تمهيداً للانتقال إلى أداة Burp Suite الاحترافية.
 
 ---

@@ -152,22 +152,22 @@ sudo nmap -sV --version-intensity 8 -O --osscan-guess -sC -p 22,80,111,143 -oA c
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
 * للاطلاع على التوثيق التفصيلي لكل مهمة وفق منهجية المراحل السبع (A-G):
-  * [المهمة 01: المقدمة (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-01.md)
-  * [المهمة 02: كشف الخدمات وتحديد الإصدارات (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-02.md)
-  * [المهمة 03: كشف نظام التشغيل وتتبع المسار (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-03.md)
-  * [المهمة 04: محرك سكربتات Nmap البرمجية NSE (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-04.md)
-  * [المهمة 05: حفظ المخرجات وتوثيق الأدلة (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-05.md)
-  * [المهمة 06: الخلاصة والربط المعماري (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-06.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS.md).
+  * [المهمة 01: المقدمة (TASK-01.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-01.md)
+  * [المهمة 02: كشف الخدمات وتحديد الإصدارات (TASK-02.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-02.md)
+  * [المهمة 03: كشف نظام التشغيل وتتبع المسار (TASK-03.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-03.md)
+  * [المهمة 04: محرك سكربتات Nmap البرمجية NSE (TASK-04.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-04.md)
+  * [المهمة 05: حفظ المخرجات وتوثيق الأدلة (TASK-05.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-05.md)
+  * [المهمة 06: الخلاصة والربط المعماري (TASK-06.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-06.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../04-NMAP-POST-PORT-SCANS/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل المعماري لملف `nmap-service-probes` وقاعدة `nmap-os-db` وبرمجة سكربتات Lua واستيراد XML في Metasploit:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../04-NMAP-POST-PORT-SCANS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على توثيق Nmap الرسمي وفهرس سكربتات NSE:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../04-NMAP-POST-PORT-SCANS/REFERENCES.md)

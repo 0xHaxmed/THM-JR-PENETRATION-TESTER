@@ -200,7 +200,7 @@
 
 ## 14. المراجع والقراءات المتقدمة (References & Further Reading)
 
-* [ملف المراجع والتوثيق المعتمد للغرفة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/REFERENCES.md)
-* [الملاحظات التقنية والشروح المعمقة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/ADDITIONAL-NOTES.md)
-* [مصفوفة مهام وحلول الغرفة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/01-SESSION-MANAGEMENT/TASKS.md)
+* [ملف المراجع والتوثيق المعتمد للغرفة](../../01-SESSION-MANAGEMENT/REFERENCES.md)
+* [الملاحظات التقنية والشروح المعمقة](../../01-SESSION-MANAGEMENT/ADDITIONAL-NOTES.md)
+* [مصفوفة مهام وحلول الغرفة](../../01-SESSION-MANAGEMENT/TASKS.md)
 * [OWASP Session Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)

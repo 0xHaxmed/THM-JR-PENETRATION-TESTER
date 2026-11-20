@@ -159,25 +159,25 @@ sudo nmap -sA -D 10.10.20.21,10.10.20.28,ME -p 1-1000 --reason MACHINE_IP
 
 ### 12. Tasks Index & Matrix
 * For detailed 7-stage task analyses:
-  * [Task 01: Introduction (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-01.md)
-  * [Task 02: TCP Null, FIN, and Xmas Scans (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-02.md)
-  * [Task 03: TCP Maimon Scan (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-03.md)
-  * [Task 04: TCP ACK, Window, and Custom Scans (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-04.md)
-  * [Task 05: Spoofing and Decoys (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-05.md)
-  * [Task 06: Fragmented Packets (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-06.md)
-  * [Task 07: Idle/Zombie Scan (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-07.md)
-  * [Task 08: Getting More Details (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-08.md)
-  * [Task 09: Summary (TASK-09.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-09.md)
-* See also [Tasks Index & Answers Summary (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/TASKS.md).
+  * [Task 01: Introduction (TASK-01.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-01.md)
+  * [Task 02: TCP Null, FIN, and Xmas Scans (TASK-02.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-02.md)
+  * [Task 03: TCP Maimon Scan (TASK-03.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-03.md)
+  * [Task 04: TCP ACK, Window, and Custom Scans (TASK-04.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-04.md)
+  * [Task 05: Spoofing and Decoys (TASK-05.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-05.md)
+  * [Task 06: Fragmented Packets (TASK-06.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-06.md)
+  * [Task 07: Idle/Zombie Scan (TASK-07.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-07.md)
+  * [Task 08: Getting More Details (TASK-08.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-08.md)
+  * [Task 09: Summary (TASK-09.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS/TASK-09.md)
+* See also [Tasks Index & Answers Summary (TASKS.md)](../../03-NMAP-ADVANCED-PORT-SCANS/TASKS.md).
 
 ---
 
 ### 13. Additional Technical Notes
 * For in-depth RFC 793 comparisons, IP ID state machine diagrams, and fragmentation header fields:
-  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](../../03-NMAP-ADVANCED-PORT-SCANS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standard RFCs
 * Standard references, RFC 793, RFC 791, and tactical cheat sheet:
-  * [Official References & Cheatsheet (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/03-NMAP-ADVANCED-PORT-SCANS/REFERENCES.md)
+  * [Official References & Cheatsheet (REFERENCES.md)](../../03-NMAP-ADVANCED-PORT-SCANS/REFERENCES.md)

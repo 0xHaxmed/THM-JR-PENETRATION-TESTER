@@ -15,7 +15,7 @@
 
 | Task # | Task Title | Questions Count | Solved / Verified | Link |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | Challenge | 5 | 5/5 | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/05-CHECKMATE/TASKS/TASK-01.md) |
+| **01** | Challenge | 5 | 5/5 | [TASK-01.md](../../05-CHECKMATE/TASKS/TASK-01.md) |
 
 ---
 

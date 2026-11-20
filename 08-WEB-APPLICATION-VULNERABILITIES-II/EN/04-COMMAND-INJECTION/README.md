@@ -104,12 +104,12 @@ Injected commands do not execute in an abstract environment; they run with the e
 
 | Task # | Task Title | Core Focus | Verified Outcome | Detailed Documentation |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | Introduction | Vulnerability definitions, privileges, and CWE-78 | `No answer needed` | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-01.md) |
-| **02** | Discovering Command Injection | Source code analysis: PHP (`$title`, `GET`) and Flask (`/id`) | 3 Code Analysis Solutions | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-02.md) |
-| **03** | Exploiting Command Injection | In-band vs blind payloads (`whoami`, `ping`, `timeout`) | 3 Tactical Payload Solutions | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-03.md) |
-| **04** | Practical | Hands-on exploitation: user discovery & flag extraction | `www-data` & Completed Flag | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-04.md) |
-| **05** | Remediation | Input validation, parameterization, and sanitization | `sanitisation` | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-05.md) |
-| **06** | Conclusion | Security posture review & curriculum transition | `No answer needed` | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS/TASK-06.md) |
+| **01** | Introduction | Vulnerability definitions, privileges, and CWE-78 | `No answer needed` | [TASK-01.md](../../04-COMMAND-INJECTION/TASKS/TASK-01.md) |
+| **02** | Discovering Command Injection | Source code analysis: PHP (`$title`, `GET`) and Flask (`/id`) | 3 Code Analysis Solutions | [TASK-02.md](../../04-COMMAND-INJECTION/TASKS/TASK-02.md) |
+| **03** | Exploiting Command Injection | In-band vs blind payloads (`whoami`, `ping`, `timeout`) | 3 Tactical Payload Solutions | [TASK-03.md](../../04-COMMAND-INJECTION/TASKS/TASK-03.md) |
+| **04** | Practical | Hands-on exploitation: user discovery & flag extraction | `www-data` & Completed Flag | [TASK-04.md](../../04-COMMAND-INJECTION/TASKS/TASK-04.md) |
+| **05** | Remediation | Input validation, parameterization, and sanitization | `sanitisation` | [TASK-05.md](../../04-COMMAND-INJECTION/TASKS/TASK-05.md) |
+| **06** | Conclusion | Security posture review & curriculum transition | `No answer needed` | [TASK-06.md](../../04-COMMAND-INJECTION/TASKS/TASK-06.md) |
 
 ---
 
@@ -201,7 +201,7 @@ Injected commands do not execute in an abstract environment; they run with the e
 
 ## 14. References & Further Reading
 
-* [Authoritative References & Documentation](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/REFERENCES.md)
-* [Deep Technical Notes & Reverse Shell Reference](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/ADDITIONAL-NOTES.md)
-* [Task Matrix & Quick Reference](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/04-COMMAND-INJECTION/TASKS.md)
+* [Authoritative References & Documentation](../../04-COMMAND-INJECTION/REFERENCES.md)
+* [Deep Technical Notes & Reverse Shell Reference](../../04-COMMAND-INJECTION/ADDITIONAL-NOTES.md)
+* [Task Matrix & Quick Reference](../../04-COMMAND-INJECTION/TASKS.md)
 * [OWASP OS Command Injection Defense Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/OS_Command_Injection_Defense_Cheat_Sheet.html)

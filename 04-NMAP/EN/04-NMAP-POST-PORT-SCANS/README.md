@@ -148,22 +148,22 @@ sudo nmap -sV --version-intensity 8 -O --osscan-guess -sC -p 22,80,111,143 -oA c
 
 ### 12. Tasks Index & Matrix
 * For detailed 7-stage task analyses:
-  * [Task 01: Introduction (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-01.md)
-  * [Task 02: Service Detection (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-02.md)
-  * [Task 03: OS Detection and Traceroute (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-03.md)
-  * [Task 04: Nmap Scripting Engine - NSE (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-04.md)
-  * [Task 05: Saving the Output (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-05.md)
-  * [Task 06: Summary (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS/TASK-06.md)
-* See also [Tasks Index & Answers Summary (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/TASKS.md).
+  * [Task 01: Introduction (TASK-01.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-01.md)
+  * [Task 02: Service Detection (TASK-02.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-02.md)
+  * [Task 03: OS Detection and Traceroute (TASK-03.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-03.md)
+  * [Task 04: Nmap Scripting Engine - NSE (TASK-04.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-04.md)
+  * [Task 05: Saving the Output (TASK-05.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-05.md)
+  * [Task 06: Summary (TASK-06.md)](../../04-NMAP-POST-PORT-SCANS/TASKS/TASK-06.md)
+* See also [Tasks Index & Answers Summary (TASKS.md)](../../04-NMAP-POST-PORT-SCANS/TASKS.md).
 
 ---
 
 ### 13. Additional Technical Notes
 * For in-depth exploration of `nmap-service-probes` directives, `nmap-os-db` tests, Lua script architecture, and Metasploit integration:
-  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](../../04-NMAP-POST-PORT-SCANS/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standard RFCs
 * Standard Nmap documentation, NSE directories, and quick cheatsheet:
-  * [Official References & Cheatsheet (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/04-NMAP-POST-PORT-SCANS/REFERENCES.md)
+  * [Official References & Cheatsheet (REFERENCES.md)](../../04-NMAP-POST-PORT-SCANS/REFERENCES.md)

@@ -14,4 +14,4 @@ This document summarizes the challenge task, question, and verified solution for
 
 ## Detailed Task Documentation Links
 
-- [Task 01: Proxy — Kerberos Constrained Delegation Abuse](file:///e:/THM-JR-PENETRATION-TESTER/14-ACTIVE-DIRECTORY-SECURITY-TESTING-BASICS/08-PROXY-CHALLENGE/TASKS/TASK-01.md)
+- [Task 01: Proxy — Kerberos Constrained Delegation Abuse](../../08-PROXY-CHALLENGE/TASKS/TASK-01.md)

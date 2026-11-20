@@ -149,24 +149,24 @@ curl -sI http://target.thm:3000/ | grep -i "set-cookie"
 
 ### 11. التحقق العملي والأدلة (Verification & Proof of Work)
 * تم حل وتأكيد جميع الأسئلة الستة بنسبة نجاح 100% وإحراز 48 نقطة كاملة.
-* تم توثيق وشرح كافة الأسئلة والخيارات والتعليلات الفنية في [ملف مراجعة وتفكيك الأسئلة التفصيلي (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md).
+* تم توثيق وشرح كافة الأسئلة والخيارات والتعليلات الفنية في [ملف مراجعة وتفكيك الأسئلة التفصيلي (RECAP-QUESTIONS.md)](../../06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md).
 
 ---
 
 ### 12. فهرس المهام والأسئلة (Tasks & Questions Index)
-* [التحليل المفصل لكافة أسئلة المراجعة (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [التحليل المفصل لكافة أسئلة المراجعة (RECAP-QUESTIONS.md)](../../06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 * راجع أيضاً الغرف السابقة في الموديول:
-  * [الغرفة 01: استكشاف التطبيقات (Walking An Application)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/01-WALKING-AN-APPLICATION/README_AR.md)
-  * [الغرفة 02: استكشاف المحتوى (Content Discovery)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/02-CONTENT-DISCOVERY/README_AR.md)
-  * [الغرفة 03: أطر الويب الحديثة (Modern Web Stacks)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/03-MODERN-WEB-STACKS/README_AR.md)
-  * [الغرفة 04: هجمات خوادم الويب - الجزء الأول (Web Server Attacks - I)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/README_AR.md)
-  * [الغرفة 05: هجمات خوادم الويب - الجزء الثاني (Web Server Attacks - II)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/README_AR.md)
+  * [الغرفة 01: استكشاف التطبيقات (Walking An Application)](../../01-WALKING-AN-APPLICATION/README_AR.md)
+  * [الغرفة 02: استكشاف المحتوى (Content Discovery)](../../02-CONTENT-DISCOVERY/README_AR.md)
+  * [الغرفة 03: أطر الويب الحديثة (Modern Web Stacks)](../../03-MODERN-WEB-STACKS/README_AR.md)
+  * [الغرفة 04: هجمات خوادم الويب - الجزء الأول (Web Server Attacks - I)](../../04-WEB-SERVER-ATTACKS-I/README_AR.md)
+  * [الغرفة 05: هجمات خوادم الويب - الجزء الثاني (Web Server Attacks - II)](../../05-WEB-SERVER-ATTACKS-II/README_AR.md)
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على مقارنة معايير RFC لـ HTTP وركائز حزمة ترويسات الأمان:
-  * [ملف الأسئلة والتعليق الفني المتقدم (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+  * [ملف الأسئلة والتعليق الفني المتقدم (RECAP-QUESTIONS.md)](../../06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

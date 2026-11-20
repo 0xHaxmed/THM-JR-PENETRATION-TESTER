@@ -182,24 +182,24 @@ nikto -h http://10.10.x.x:80 -nointeractive
 ---
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
-* [المهمة 01: المقدمة ومنهجية رصد أخطاء التهيئة (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-01.md)
-* [المهمة 02: تحديد وبصمة خوادم الويب (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-02.md)
-* [المهمة 03: خادم بايثون ومخاطر تسريب الملفات الحساسة (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-03.md)
-* [المهمة 04: خادم أباتشي وفهرسة الدلائل وإحصائيات mod_status (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-04.md)
-* [المهمة 05: خادم Node.js ونقاط التصحيح المكشوفة (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-05.md)
-* [المهمة 06: خادم Nginx وتوجيه autoindex وإحصائيات الاتصال (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-06.md)
-* [المهمة 07: أخطاء التهيئة المشتركة وترويسات الأمان الغائبة (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-07.md)
-* [المهمة 08: الخاتمة ومصفوفة المقارنة الدفاعية (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-08.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS.md).
+* [المهمة 01: المقدمة ومنهجية رصد أخطاء التهيئة (TASK-01.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-01.md)
+* [المهمة 02: تحديد وبصمة خوادم الويب (TASK-02.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-02.md)
+* [المهمة 03: خادم بايثون ومخاطر تسريب الملفات الحساسة (TASK-03.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-03.md)
+* [المهمة 04: خادم أباتشي وفهرسة الدلائل وإحصائيات mod_status (TASK-04.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-04.md)
+* [المهمة 05: خادم Node.js ونقاط التصحيح المكشوفة (TASK-05.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-05.md)
+* [المهمة 06: خادم Nginx وتوجيه autoindex وإحصائيات الاتصال (TASK-06.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-06.md)
+* [المهمة 07: أخطاء التهيئة المشتركة وترويسات الأمان الغائبة (TASK-07.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-07.md)
+* [المهمة 08: الخاتمة ومصفوفة المقارنة الدفاعية (TASK-08.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-08.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل المعماري لتوجيهات Apache، وخوارزميات Nginx، وفحص شجرة مسارات Express، وتوجيهات ترويسات الأمان:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../04-WEB-SERVER-ATTACKS-I/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على معايير OWASP ومعايير CIS Benchmarks والوثائق الرسمية للخوادم:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../04-WEB-SERVER-ATTACKS-I/REFERENCES.md)

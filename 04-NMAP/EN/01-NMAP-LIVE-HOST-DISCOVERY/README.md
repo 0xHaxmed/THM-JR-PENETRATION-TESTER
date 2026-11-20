@@ -155,25 +155,25 @@ sudo nmap -sn -PE -PP -PS21,22,80,443 -PA80,443 -PU53 -n --min-rate 500 10.10.21
 
 ### 12. Tasks Index & Matrix
 * For detailed 7-stage task analyses:
-  * [Task 01: Introduction (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-01.md)
-  * [Task 02: Subnetworks (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-02.md)
-  * [Task 03: Understanding Hosts Discovery through TCP/IP (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-03.md)
-  * [Task 04: Enumerating Targets (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-04.md)
-  * [Task 05: Host Discovery Using ARP (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-05.md)
-  * [Task 06: Host Discovery Using ICMP (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-06.md)
-  * [Task 07: Host Discovery Using TCP and UDP (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-07.md)
-  * [Task 08: Using Reverse-DNS Lookup (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-08.md)
-  * [Task 09: Summary (TASK-09.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-09.md)
-* See also [Tasks Index & Answers Summary (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS.md).
+  * [Task 01: Introduction (TASK-01.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-01.md)
+  * [Task 02: Subnetworks (TASK-02.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-02.md)
+  * [Task 03: Understanding Hosts Discovery through TCP/IP (TASK-03.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-03.md)
+  * [Task 04: Enumerating Targets (TASK-04.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-04.md)
+  * [Task 05: Host Discovery Using ARP (TASK-05.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-05.md)
+  * [Task 06: Host Discovery Using ICMP (TASK-06.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-06.md)
+  * [Task 07: Host Discovery Using TCP and UDP (TASK-07.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-07.md)
+  * [Task 08: Using Reverse-DNS Lookup (TASK-08.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-08.md)
+  * [Task 09: Summary (TASK-09.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-09.md)
+* See also [Tasks Index & Answers Summary (TASKS.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS.md).
 
 ---
 
 ### 13. Additional Technical Notes
 * For in-depth socket comparisons and RFC 793 packet dynamics:
-  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Deep Dive (ADDITIONAL-NOTES.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standard RFCs
 * Standard references, RFCs, and quick cheatsheet:
-  * [Official References & Cheatsheet (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/REFERENCES.md)
+  * [Official References & Cheatsheet (REFERENCES.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/REFERENCES.md)

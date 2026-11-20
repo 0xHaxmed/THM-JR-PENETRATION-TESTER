@@ -230,7 +230,7 @@ echo -n '{"id":1,"admin":true}' | base64
 
 ## 14. المراجع والقراءات المتقدمة (References & Further Reading)
 
-* [ملف المراجع والتوثيق المعتمد للغرفة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/REFERENCES.md)
-* [الملاحظات التقنية والشروح المعمقة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/ADDITIONAL-NOTES.md)
-* [مصفوفة مهام وحلول الغرفة](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS.md)
+* [ملف المراجع والتوثيق المعتمد للغرفة](../../02-BROKEN-AUTHENTICATION/REFERENCES.md)
+* [الملاحظات التقنية والشروح المعمقة](../../02-BROKEN-AUTHENTICATION/ADDITIONAL-NOTES.md)
+* [مصفوفة مهام وحلول الغرفة](../../02-BROKEN-AUTHENTICATION/TASKS.md)
 * [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)

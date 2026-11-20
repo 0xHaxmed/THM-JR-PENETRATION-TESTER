@@ -15,12 +15,12 @@
 
 | Task # | Task Title | Questions Count | Solved / Verified | Link |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | Introduction | 1 | 1/1 | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-01.md) |
-| **02** | Automated Enumeration Tools | 1 | 1/1 | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-02.md) |
-| **03** | Privilege Escalation: Public Exploits | 1 | 1/1 | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-03.md) |
-| **04** | pspy - Unprivileged Process Monitoring | 2 | 2/2 | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-04.md) |
-| **05** | Challenge | 2 | 2/2 | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-05.md) |
-| **06** | Conclusion | 1 | 1/1 | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-06.md) |
+| **01** | Introduction | 1 | 1/1 | [TASK-01.md](../../04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-01.md) |
+| **02** | Automated Enumeration Tools | 1 | 1/1 | [TASK-02.md](../../04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-02.md) |
+| **03** | Privilege Escalation: Public Exploits | 1 | 1/1 | [TASK-03.md](../../04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-03.md) |
+| **04** | pspy - Unprivileged Process Monitoring | 2 | 2/2 | [TASK-04.md](../../04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-04.md) |
+| **05** | Challenge | 2 | 2/2 | [TASK-05.md](../../04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-05.md) |
+| **06** | Conclusion | 1 | 1/1 | [TASK-06.md](../../04-LINUX-PRIVILEGE-ESCALATION-AUTOMATION/TASKS/TASK-06.md) |
 
 ---
 

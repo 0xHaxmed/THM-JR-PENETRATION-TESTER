@@ -2,13 +2,13 @@
 
 | رقم المهمة | عنوان المهمة | عدد الأسئلة | الموضوع الجوهري | حالة الإنجاز | رابط ملف الشرح التفصيلي |
 | :---: | :--- | :---: | :--- | :---: | :---: |
-| **01** | Introduction | 0 | مدخل كسر آليات المصادقة وبيئة Acme IT Support | مكتمل ✅ | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-01.md) |
-| **02** | Types of Authentication Bypass | 1 | تصنيفات الثغرات ومفهوم Credential Reuse | مكتمل ✅ | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-02.md) |
-| **03** | Username Enumeration | 3 | حصر المستخدمين عبر رسائل الخطأ التفاضلية بأداة ffuf | مكتمل ✅ | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-03.md) |
-| **04** | Brute Forcing a Login Form | 1 | كسر نموذج الدخول بتخمين القوائم المزدوجة W1/W2 | مكتمل ✅ | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-04.md) |
-| **05** | Logic Flaws | 1 | استغلال تلويث معلمات HTTP Parameter Pollution في استعادة كلمة المرور | مكتمل ✅ | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-05.md) |
-| **06** | Cookie Manipulation | 4 | التلاعب بالكوكيز النصية والمجملة وتجزئات MD5 و Base64 | مكتمل ✅ | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-06.md) |
-| **07** | Conclusion | 0 | الخاتمة ومصفوفة التحصين الدفاعي والانتقال إلى File Inclusion | مكتمل ✅ | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-07.md) |
+| **01** | Introduction | 0 | مدخل كسر آليات المصادقة وبيئة Acme IT Support | مكتمل ✅ | [TASK-01.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-01.md) |
+| **02** | Types of Authentication Bypass | 1 | تصنيفات الثغرات ومفهوم Credential Reuse | مكتمل ✅ | [TASK-02.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-02.md) |
+| **03** | Username Enumeration | 3 | حصر المستخدمين عبر رسائل الخطأ التفاضلية بأداة ffuf | مكتمل ✅ | [TASK-03.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-03.md) |
+| **04** | Brute Forcing a Login Form | 1 | كسر نموذج الدخول بتخمين القوائم المزدوجة W1/W2 | مكتمل ✅ | [TASK-04.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-04.md) |
+| **05** | Logic Flaws | 1 | استغلال تلويث معلمات HTTP Parameter Pollution في استعادة كلمة المرور | مكتمل ✅ | [TASK-05.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-05.md) |
+| **06** | Cookie Manipulation | 4 | التلاعب بالكوكيز النصية والمجملة وتجزئات MD5 و Base64 | مكتمل ✅ | [TASK-06.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-06.md) |
+| **07** | Conclusion | 0 | الخاتمة ومصفوفة التحصين الدفاعي والانتقال إلى File Inclusion | مكتمل ✅ | [TASK-07.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-07.md) |
 
 ---
 

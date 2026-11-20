@@ -16,13 +16,13 @@
 
 | رقم المهمة (Task #) | عنوان المهمة (Task Title) | الهدف العملياتي (Operational Objective) | نوع السؤال / السؤال المطلوب | الإجابة المعتمدة (Accepted Answer) | حالة الإنجاز |
 | :---: | :--- | :--- | :--- | :--- | :---: |
-| **01** | [Task 01: Hydra Introduction](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/02-HYDRA/TASKS/TASK-01.md) | التعرف على قدرات الأداة والبروتوكولات المدعومة | Read the above and have Hydra at the ready. | `No answer needed` | ✅ منجز |
-| **02** | [Task 02: Using Hydra](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/02-HYDRA/TASKS/TASK-02.md) | التخمين على استمارة الويب وخدمة SSH لاستخراج الرايات | Use Hydra to brute-force molly's web password. What is the value of flag 1? | `THM{2673a7dd116de68e85c48ec0b1f2612e}` | ✅ منجز |
+| **01** | [Task 01: Hydra Introduction](../../02-HYDRA/TASKS/TASK-01.md) | التعرف على قدرات الأداة والبروتوكولات المدعومة | Read the above and have Hydra at the ready. | `No answer needed` | ✅ منجز |
+| **02** | [Task 02: Using Hydra](../../02-HYDRA/TASKS/TASK-02.md) | التخمين على استمارة الويب وخدمة SSH لاستخراج الرايات | Use Hydra to brute-force molly's web password. What is the value of flag 1? | `THM{2673a7dd116de68e85c48ec0b1f2612e}` | ✅ منجز |
 | | | | Use Hydra to brute-force molly's SSH password. What is the value of flag 2? | `THM{c8eeb0468febbadea859baeb33b2541b}` | ✅ منجز |
 
 ---
 
 ## 🎯 Quick Navigation to Detailed Task Files (روابط الوصول المباشر لملفات المهام)
 
-1. [TASK-01.md: Hydra Introduction & Architecture](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/02-HYDRA/TASKS/TASK-01.md)
-2. [TASK-02.md: Using Hydra (Web Form & SSH Exploitation)](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/02-HYDRA/TASKS/TASK-02.md)
+1. [TASK-01.md: Hydra Introduction & Architecture](../../02-HYDRA/TASKS/TASK-01.md)
+2. [TASK-02.md: Using Hydra (Web Form & SSH Exploitation)](../../02-HYDRA/TASKS/TASK-02.md)

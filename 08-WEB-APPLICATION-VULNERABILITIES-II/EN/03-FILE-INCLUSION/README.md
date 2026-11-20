@@ -114,14 +114,14 @@ While `allow_url_include` has been disabled by default since PHP 5.2.0, misconfi
 
 | Task # | Task Title | Core Focus | Verified Outcome | Detailed Documentation |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | Introduction | Scope, theory, and OWASP Top 10 alignment | `No answer needed` | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-01.md) |
-| **02** | Deploy the VM | Target deployment & connectivity check | `No answer needed` | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-02.md) |
-| **03** | Path Traversal | Mechanics of `file_get_contents` & target files | `file_get_contents` | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-03.md) |
-| **04** | LFI (Part 1) | Absolute path inclusion & prefix disclosure | `/lab1.php?file=/etc/passwd` & `includes` | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-04.md) |
-| **05** | LFI (Part 2) | Null byte injection & OS release fingerprinting | `%00`, `file_get_contents`, `THM-profile`, `12.04` | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-05.md) |
-| **06** | RFI | Remote execution theory & `php.ini` requirements | `No answer needed` | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-06.md) |
-| **07** | Challenge | Capturing Flags 1-3 & Playground Hostname RCE | 3 Flags + `lfi-vm-thm-f8c5b1a78692` | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-07.md) |
-| **08** | Remediation | Architectural allowlisting & defensive hardening | `No answer needed` | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS/TASK-08.md) |
+| **01** | Introduction | Scope, theory, and OWASP Top 10 alignment | `No answer needed` | [TASK-01.md](../../03-FILE-INCLUSION/TASKS/TASK-01.md) |
+| **02** | Deploy the VM | Target deployment & connectivity check | `No answer needed` | [TASK-02.md](../../03-FILE-INCLUSION/TASKS/TASK-02.md) |
+| **03** | Path Traversal | Mechanics of `file_get_contents` & target files | `file_get_contents` | [TASK-03.md](../../03-FILE-INCLUSION/TASKS/TASK-03.md) |
+| **04** | LFI (Part 1) | Absolute path inclusion & prefix disclosure | `/lab1.php?file=/etc/passwd` & `includes` | [TASK-04.md](../../03-FILE-INCLUSION/TASKS/TASK-04.md) |
+| **05** | LFI (Part 2) | Null byte injection & OS release fingerprinting | `%00`, `file_get_contents`, `THM-profile`, `12.04` | [TASK-05.md](../../03-FILE-INCLUSION/TASKS/TASK-05.md) |
+| **06** | RFI | Remote execution theory & `php.ini` requirements | `No answer needed` | [TASK-06.md](../../03-FILE-INCLUSION/TASKS/TASK-06.md) |
+| **07** | Challenge | Capturing Flags 1-3 & Playground Hostname RCE | 3 Flags + `lfi-vm-thm-f8c5b1a78692` | [TASK-07.md](../../03-FILE-INCLUSION/TASKS/TASK-07.md) |
+| **08** | Remediation | Architectural allowlisting & defensive hardening | `No answer needed` | [TASK-08.md](../../03-FILE-INCLUSION/TASKS/TASK-08.md) |
 
 ---
 
@@ -246,7 +246,7 @@ curl -s -X POST "http://MACHINE_IP/challenges/chall3.php" \
 
 ## 14. References & Further Reading
 
-* [Authoritative References & Documentation](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/REFERENCES.md)
-* [Deep Technical Notes & PHP Stream Wrappers](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/ADDITIONAL-NOTES.md)
-* [Task Matrix & Quick Reference](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/03-FILE-INCLUSION/TASKS.md)
+* [Authoritative References & Documentation](../../03-FILE-INCLUSION/REFERENCES.md)
+* [Deep Technical Notes & PHP Stream Wrappers](../../03-FILE-INCLUSION/ADDITIONAL-NOTES.md)
+* [Task Matrix & Quick Reference](../../03-FILE-INCLUSION/TASKS.md)
 * [OWASP Testing for Local File Inclusion Guide](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_Local_File_Inclusion)

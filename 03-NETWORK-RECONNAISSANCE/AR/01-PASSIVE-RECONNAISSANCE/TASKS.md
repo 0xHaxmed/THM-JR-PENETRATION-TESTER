@@ -13,13 +13,13 @@
 
 | رقم المهمة | عنوان المهمة الأصلي | المفهوم الأساسي | رابط ملف الحل المكتمل | الحالة |
 |---|---|---|---|---|
-| **Task 01** | Introduction | مدخل إلى الاستطلاع السلبي والتخفي التشغيلي | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/01-PASSIVE-RECONNAISSANCE/TASKS/TASK-01.md) | مكتملة ومحققة |
-| **Task 02** | Passive Versus Active Recon | التمييز العملي بين الأنشطة السلبية (P) والأنشطة النشطة (A) | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/01-PASSIVE-RECONNAISSANCE/TASKS/TASK-02.md) | مكتملة ومحققة |
-| **Task 03** | Whois | استعلام بروتوكول WHOIS وسجلات التسجيل وخوادم الأسماء | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/01-PASSIVE-RECONNAISSANCE/TASKS/TASK-03.md) | مكتملة ومحققة |
-| **Task 04** | nslookup and dig | استعلام سجلات DNS النصية (TXT) واستخراج الراية الأمنية | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/01-PASSIVE-RECONNAISSANCE/TASKS/TASK-04.md) | مكتملة ومحققة |
-| **Task 05** | DNSDumpster | استكشاف النطاقات الفرعية ورسم الخريطة وتحليل خدمات cloudflare | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/01-PASSIVE-RECONNAISSANCE/TASKS/TASK-05.md) | مكتملة ومحققة |
-| **Task 06** | Shodan.io | استعلام محرك Shodan وكشف إحصائيات خوادم Apache و Nginx | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/01-PASSIVE-RECONNAISSANCE/TASKS/TASK-06.md) | مكتملة ومحققة |
-| **Task 07** | Summary | تلخيص خط أنابيب الاستطلاع والجاهزية للاستطلاع النشط | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/01-PASSIVE-RECONNAISSANCE/TASKS/TASK-07.md) | مكتملة ومحققة |
+| **Task 01** | Introduction | مدخل إلى الاستطلاع السلبي والتخفي التشغيلي | [TASK-01.md](../../01-PASSIVE-RECONNAISSANCE/TASKS/TASK-01.md) | مكتملة ومحققة |
+| **Task 02** | Passive Versus Active Recon | التمييز العملي بين الأنشطة السلبية (P) والأنشطة النشطة (A) | [TASK-02.md](../../01-PASSIVE-RECONNAISSANCE/TASKS/TASK-02.md) | مكتملة ومحققة |
+| **Task 03** | Whois | استعلام بروتوكول WHOIS وسجلات التسجيل وخوادم الأسماء | [TASK-03.md](../../01-PASSIVE-RECONNAISSANCE/TASKS/TASK-03.md) | مكتملة ومحققة |
+| **Task 04** | nslookup and dig | استعلام سجلات DNS النصية (TXT) واستخراج الراية الأمنية | [TASK-04.md](../../01-PASSIVE-RECONNAISSANCE/TASKS/TASK-04.md) | مكتملة ومحققة |
+| **Task 05** | DNSDumpster | استكشاف النطاقات الفرعية ورسم الخريطة وتحليل خدمات cloudflare | [TASK-05.md](../../01-PASSIVE-RECONNAISSANCE/TASKS/TASK-05.md) | مكتملة ومحققة |
+| **Task 06** | Shodan.io | استعلام محرك Shodan وكشف إحصائيات خوادم Apache و Nginx | [TASK-06.md](../../01-PASSIVE-RECONNAISSANCE/TASKS/TASK-06.md) | مكتملة ومحققة |
+| **Task 07** | Summary | تلخيص خط أنابيب الاستطلاع والجاهزية للاستطلاع النشط | [TASK-07.md](../../01-PASSIVE-RECONNAISSANCE/TASKS/TASK-07.md) | مكتملة ومحققة |
 
 ---
 

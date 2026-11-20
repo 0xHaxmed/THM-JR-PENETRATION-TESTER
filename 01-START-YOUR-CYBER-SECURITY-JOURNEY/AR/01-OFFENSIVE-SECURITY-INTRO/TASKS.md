@@ -13,10 +13,10 @@
 
 | رقم المهمة | عنوان المهمة الأصلي | المفهوم الأساسي | رابط ملف الحل المكتمل | الحالة |
 |---|---|---|---|---|
-| **Task 01** | Think like a Hacker! | عقلية المخترق ومفهوم محاكاة الخصم | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-01.md) | مكتملة ومحققة |
-| **Task 02** | Starting the Lab | تشغيل المعمل وتحديد رقم الحساب المصرفي 8881 | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-02.md) | مكتملة ومحققة |
-| **Task 03** | Find Hidden Pages | اكتشاف المسارات غير المعلنة عبر dirb وتحديد /bank-transfer | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-03.md) | مكتملة ومحققة |
-| **Task 04** | Attack the Admin Page | استغلال غياب المصادقة واقتناص راية BANK-HACKED | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-04.md) | مكتملة ومحققة |
+| **Task 01** | Think like a Hacker! | عقلية المخترق ومفهوم محاكاة الخصم | [TASK-01.md](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-01.md) | مكتملة ومحققة |
+| **Task 02** | Starting the Lab | تشغيل المعمل وتحديد رقم الحساب المصرفي 8881 | [TASK-02.md](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-02.md) | مكتملة ومحققة |
+| **Task 03** | Find Hidden Pages | اكتشاف المسارات غير المعلنة عبر dirb وتحديد /bank-transfer | [TASK-03.md](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-03.md) | مكتملة ومحققة |
+| **Task 04** | Attack the Admin Page | استغلال غياب المصادقة واقتناص راية BANK-HACKED | [TASK-04.md](../../01-OFFENSIVE-SECURITY-INTRO/TASKS/TASK-04.md) | مكتملة ومحققة |
 
 ---
 

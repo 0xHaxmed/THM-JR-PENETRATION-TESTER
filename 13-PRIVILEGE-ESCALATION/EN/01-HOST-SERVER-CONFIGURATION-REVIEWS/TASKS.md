@@ -15,15 +15,15 @@
 
 | Task # | Task Title | Questions Count | Solved / Verified | Link |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | Introduction | 1 | 1/1 | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-01.md) |
-| **02** | What are Configuration Reviews? | 1 | 1/1 | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-02.md) |
-| **03** | Industry Standards: CIS and STIGs | 1 | 1/1 | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-03.md) |
-| **04** | Automated Tools vs. Manual Reviews | 1 | 1/1 | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-04.md) |
-| **05** | Common Misconfigurations | 1 | 1/1 | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-05.md) |
-| **06** | The Enumeration Methodology | 1 | 1/1 | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-06.md) |
-| **07** | Evaluating Findings | 1 | 1/1 | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-07.md) |
-| **08** | Practical | 6 | 6/6 | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-08.md) |
-| **09** | Conclusion | 1 | 1/1 | [TASK-09.md](file:///e:/THM-JR-PENETRATION-TESTER/13-PRIVILEGE-ESCALATION/01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-09.md) |
+| **01** | Introduction | 1 | 1/1 | [TASK-01.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-01.md) |
+| **02** | What are Configuration Reviews? | 1 | 1/1 | [TASK-02.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-02.md) |
+| **03** | Industry Standards: CIS and STIGs | 1 | 1/1 | [TASK-03.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-03.md) |
+| **04** | Automated Tools vs. Manual Reviews | 1 | 1/1 | [TASK-04.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-04.md) |
+| **05** | Common Misconfigurations | 1 | 1/1 | [TASK-05.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-05.md) |
+| **06** | The Enumeration Methodology | 1 | 1/1 | [TASK-06.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-06.md) |
+| **07** | Evaluating Findings | 1 | 1/1 | [TASK-07.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-07.md) |
+| **08** | Practical | 6 | 6/6 | [TASK-08.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-08.md) |
+| **09** | Conclusion | 1 | 1/1 | [TASK-09.md](../../01-HOST-SERVER-CONFIGURATION-REVIEWS/TASKS/TASK-09.md) |
 
 ---
 

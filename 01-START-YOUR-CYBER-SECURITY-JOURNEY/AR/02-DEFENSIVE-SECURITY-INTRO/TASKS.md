@@ -13,10 +13,10 @@
 
 | رقم المهمة | عنوان المهمة الأصلي | المفهوم الأساسي | رابط ملف الحل المكتمل | الحالة |
 |---|---|---|---|---|
-| **Task 01** | You're the First Line of Defence | دور أخصائي الدفاع والـ Blue Team في حماية المؤسسات | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/02-DEFENSIVE-SECURITY-INTRO/TASKS/TASK-01.md) | مكتملة ومحققة |
-| **Task 02** | Something Looks Wrong... | تحليل سجلات الويب واستخراج عنوان IP المهاجم (32.122.195.63) | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/02-DEFENSIVE-SECURITY-INTRO/TASKS/TASK-02.md) | مكتملة ومحققة |
-| **Task 03** | What are Hackers Looking For? | تتبع المسارات المستهدفة واكتشاف محاولة الوصول لـ /admin | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/02-DEFENSIVE-SECURITY-INTRO/TASKS/TASK-03.md) | مكتملة ومحققة |
-| **Task 04** | Stop The Hack | تطبيق قواعد الحظر على الجدار الناري واقتناص الراية | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/02-DEFENSIVE-SECURITY-INTRO/TASKS/TASK-04.md) | مكتملة ومحققة |
+| **Task 01** | You're the First Line of Defence | دور أخصائي الدفاع والـ Blue Team في حماية المؤسسات | [TASK-01.md](../../02-DEFENSIVE-SECURITY-INTRO/TASKS/TASK-01.md) | مكتملة ومحققة |
+| **Task 02** | Something Looks Wrong... | تحليل سجلات الويب واستخراج عنوان IP المهاجم (32.122.195.63) | [TASK-02.md](../../02-DEFENSIVE-SECURITY-INTRO/TASKS/TASK-02.md) | مكتملة ومحققة |
+| **Task 03** | What are Hackers Looking For? | تتبع المسارات المستهدفة واكتشاف محاولة الوصول لـ /admin | [TASK-03.md](../../02-DEFENSIVE-SECURITY-INTRO/TASKS/TASK-03.md) | مكتملة ومحققة |
+| **Task 04** | Stop The Hack | تطبيق قواعد الحظر على الجدار الناري واقتناص الراية | [TASK-04.md](../../02-DEFENSIVE-SECURITY-INTRO/TASKS/TASK-04.md) | مكتملة ومحققة |
 
 ---
 

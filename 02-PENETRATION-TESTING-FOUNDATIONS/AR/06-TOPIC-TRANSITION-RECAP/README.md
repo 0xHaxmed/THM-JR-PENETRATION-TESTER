@@ -16,7 +16,7 @@
 
 ### 🏛️ فهرس أسئلة التقييم
 للاطلاع على الأسئلة التقييمية التوليفية ونماذج الإجابات التفصيلية المعتمدة، راجع:
-* [أسئلة التقييم الختامي للوحدة الثانية (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [أسئلة التقييم الختامي للوحدة الثانية (RECAP-QUESTIONS.md)](../../06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

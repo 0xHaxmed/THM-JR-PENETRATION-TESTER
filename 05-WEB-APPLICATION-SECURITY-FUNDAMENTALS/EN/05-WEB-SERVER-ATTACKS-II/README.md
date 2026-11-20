@@ -212,24 +212,24 @@ nmap -p 80 --script http-methods 10.10.x.x
 ---
 
 ### 12. Tasks Index
-* [Task 01: Introduction & Threat Context (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-01.md)
-* [Task 02: IIS Fingerprinting & Enumeration (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-02.md)
-* [Task 03: IIS Tilde (Short Filename) Enumeration (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-03.md)
-* [Task 04: WebDAV Exploitation: Uploading ASPX (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-04.md)
-* [Task 05: ASPX Web Shells & SeImpersonatePrivilege (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-05.md)
-* [Task 06: IIS Misconfigurations & trace.axd (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-06.md)
-* [Task 07: Automation with Nmap NSE (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-07.md)
-* [Task 08: Conclusion & Remediation Matrix (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS/TASK-08.md)
-* See also: [Tasks & Answers Index (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/TASKS.md)
+* [Task 01: Introduction & Threat Context (TASK-01.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-01.md)
+* [Task 02: IIS Fingerprinting & Enumeration (TASK-02.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-02.md)
+* [Task 03: IIS Tilde (Short Filename) Enumeration (TASK-03.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-03.md)
+* [Task 04: WebDAV Exploitation: Uploading ASPX (TASK-04.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-04.md)
+* [Task 05: ASPX Web Shells & SeImpersonatePrivilege (TASK-05.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-05.md)
+* [Task 06: IIS Misconfigurations & trace.axd (TASK-06.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-06.md)
+* [Task 07: Automation with Nmap NSE (TASK-07.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-07.md)
+* [Task 08: Conclusion & Remediation Matrix (TASK-08.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS/TASK-08.md)
+* See also: [Tasks & Answers Index (TASKS.md)](../../05-WEB-SERVER-ATTACKS-II/TASKS.md)
 
 ---
 
 ### 13. Additional Notes & Deep Dive
 * For in-depth architectural breakdown of HTTP.sys, w3wp.exe, 8.3 SFN collision algorithms, and Potato privilege escalation mechanics:
-  * [Additional Notes & Technical Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Technical Deep Dive (ADDITIONAL-NOTES.md)](../../05-WEB-SERVER-ATTACKS-II/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standards
 * For CISA advisories, Soroush Dalili's 8.3 SFN research, and Microsoft IIS documentation:
-  * [Official References & Security Standards (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/05-WEB-SERVER-ATTACKS-II/REFERENCES.md)
+  * [Official References & Security Standards (REFERENCES.md)](../../05-WEB-SERVER-ATTACKS-II/REFERENCES.md)

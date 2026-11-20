@@ -14,7 +14,7 @@
 
 ### 🏛️ فهرس أسئلة التقييم
 للاطلاع على الأسئلة التقييمية ونماذج الإجابات المعتمدة، راجع:
-* [أسئلة التقييم الختامي للوحدة (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/04-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [أسئلة التقييم الختامي للوحدة (RECAP-QUESTIONS.md)](../../04-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

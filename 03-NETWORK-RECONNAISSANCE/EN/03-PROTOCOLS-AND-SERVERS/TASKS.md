@@ -13,14 +13,14 @@
 
 | رقم المهمة | عنوان المهمة الأصلي | المفهوم الأساسي | رابط ملف الحل المكتمل | الحالة |
 |---|---|---|---|---|
-| **Task 01** | Introduction | مدخل إلى بروتوكولات طبقة التطبيقات والاتصال بالمقابس | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/03-PROTOCOLS-AND-SERVERS/TASKS/TASK-01.md) | مكتملة ومحققة |
-| **Task 02** | Telnet | بروتوكول الإدارة النصية القديمة والمنفذ الافتراضي 23 | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/03-PROTOCOLS-AND-SERVERS/TASKS/TASK-02.md) | مكتملة ومحققة |
-| **Task 03** | Hypertext Transfer Protocol (HTTP) | صياغة طلبات GET يدوياً واسترجاع راية flag.thm | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/03-PROTOCOLS-AND-SERVERS/TASKS/TASK-03.md) | مكتملة ومحققة |
-| **Task 04** | File Transfer Protocol (FTP) | المصادقة عبر المنفذ 21 وتنزيل الملفات واستخراج الراية | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/03-PROTOCOLS-AND-SERVERS/TASKS/TASK-04.md) | مكتملة ومحققة |
-| **Task 05** | Simple Mail Transfer Protocol (SMTP) | رسائل الترحيب الكود 220 واستخراج راية خادم البريد | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/03-PROTOCOLS-AND-SERVERS/TASKS/TASK-05.md) | مكتملة ومحققة |
-| **Task 06** | Post Office Protocol 3 (POP3) | مصادقة البريد، أمر STAT، واستعلام عدد الرسائل المتاحة | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/03-PROTOCOLS-AND-SERVERS/TASKS/TASK-06.md) | مكتملة ومحققة |
-| **Task 07** | Internet Message Access Protocol (IMAP) | مزامنة البريد على الخادم والمنفذ الافتراضي المعياري 143 | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/03-PROTOCOLS-AND-SERVERS/TASKS/TASK-07.md) | مكتملة ومحققة |
-| **Task 08** | Summary | مصفوفة بروتوكولات النصوص الصريحة والتمهيد لـ Protocols 2 | [TASK-08.md](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/03-PROTOCOLS-AND-SERVERS/TASKS/TASK-08.md) | مكتملة ومحققة |
+| **Task 01** | Introduction | مدخل إلى بروتوكولات طبقة التطبيقات والاتصال بالمقابس | [TASK-01.md](../../03-PROTOCOLS-AND-SERVERS/TASKS/TASK-01.md) | مكتملة ومحققة |
+| **Task 02** | Telnet | بروتوكول الإدارة النصية القديمة والمنفذ الافتراضي 23 | [TASK-02.md](../../03-PROTOCOLS-AND-SERVERS/TASKS/TASK-02.md) | مكتملة ومحققة |
+| **Task 03** | Hypertext Transfer Protocol (HTTP) | صياغة طلبات GET يدوياً واسترجاع راية flag.thm | [TASK-03.md](../../03-PROTOCOLS-AND-SERVERS/TASKS/TASK-03.md) | مكتملة ومحققة |
+| **Task 04** | File Transfer Protocol (FTP) | المصادقة عبر المنفذ 21 وتنزيل الملفات واستخراج الراية | [TASK-04.md](../../03-PROTOCOLS-AND-SERVERS/TASKS/TASK-04.md) | مكتملة ومحققة |
+| **Task 05** | Simple Mail Transfer Protocol (SMTP) | رسائل الترحيب الكود 220 واستخراج راية خادم البريد | [TASK-05.md](../../03-PROTOCOLS-AND-SERVERS/TASKS/TASK-05.md) | مكتملة ومحققة |
+| **Task 06** | Post Office Protocol 3 (POP3) | مصادقة البريد، أمر STAT، واستعلام عدد الرسائل المتاحة | [TASK-06.md](../../03-PROTOCOLS-AND-SERVERS/TASKS/TASK-06.md) | مكتملة ومحققة |
+| **Task 07** | Internet Message Access Protocol (IMAP) | مزامنة البريد على الخادم والمنفذ الافتراضي المعياري 143 | [TASK-07.md](../../03-PROTOCOLS-AND-SERVERS/TASKS/TASK-07.md) | مكتملة ومحققة |
+| **Task 08** | Summary | مصفوفة بروتوكولات النصوص الصريحة والتمهيد لـ Protocols 2 | [TASK-08.md](../../03-PROTOCOLS-AND-SERVERS/TASKS/TASK-08.md) | مكتملة ومحققة |
 
 ---
 

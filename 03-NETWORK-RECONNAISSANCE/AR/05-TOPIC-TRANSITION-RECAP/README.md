@@ -15,7 +15,7 @@
 
 ### 🏛️ فهرس أسئلة التقييم
 للاطلاع على الأسئلة التقييمية التوليفية المعتمدة رسمياً من TryHackMe مع التحليل الفني الأكاديمي، راجع:
-* [أسئلة التقييم الختامي للوحدة الثالثة (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/03-NETWORK-RECONNAISSANCE/05-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [أسئلة التقييم الختامي للوحدة الثالثة (RECAP-QUESTIONS.md)](../../05-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

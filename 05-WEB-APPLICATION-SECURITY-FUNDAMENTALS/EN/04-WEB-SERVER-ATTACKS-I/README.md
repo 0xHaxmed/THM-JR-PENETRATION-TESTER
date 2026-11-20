@@ -221,24 +221,24 @@ nikto -h http://10.10.x.x:80 -nointeractive
 ---
 
 ### 12. Tasks Index
-* [Task 01: Introduction & Lab Topology (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-01.md)
-* [Task 02: Identifying Web Servers (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-02.md)
-* [Task 03: Python HTTP Server (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-03.md)
-* [Task 04: Apache2 Directory Listing & mod_status (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-04.md)
-* [Task 05: Node.js Express Debug Endpoints & Env Leakage (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-05.md)
-* [Task 06: Nginx Directory Indexing & Connection Metrics (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-06.md)
-* [Task 07: Common Misconfigurations & Security Headers (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-07.md)
-* [Task 08: Conclusion & Remediation Matrix (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS/TASK-08.md)
-* See also: [Tasks & Answers Index (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/TASKS.md)
+* [Task 01: Introduction & Lab Topology (TASK-01.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-01.md)
+* [Task 02: Identifying Web Servers (TASK-02.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-02.md)
+* [Task 03: Python HTTP Server (TASK-03.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-03.md)
+* [Task 04: Apache2 Directory Listing & mod_status (TASK-04.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-04.md)
+* [Task 05: Node.js Express Debug Endpoints & Env Leakage (TASK-05.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-05.md)
+* [Task 06: Nginx Directory Indexing & Connection Metrics (TASK-06.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-06.md)
+* [Task 07: Common Misconfigurations & Security Headers (TASK-07.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-07.md)
+* [Task 08: Conclusion & Remediation Matrix (TASK-08.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS/TASK-08.md)
+* See also: [Tasks & Answers Index (TASKS.md)](../../04-WEB-SERVER-ATTACKS-I/TASKS.md)
 
 ---
 
 ### 13. Additional Notes & Deep Dive
 * For in-depth architectural breakdown of Apache directives, Python SimpleHTTP internals, Express routing trees, and HTTP security header specifications:
-  * [Additional Notes & Technical Deep Dive (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/ADDITIONAL-NOTES.md)
+  * [Additional Notes & Technical Deep Dive (ADDITIONAL-NOTES.md)](../../04-WEB-SERVER-ATTACKS-I/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. References & Standards
 * For CIS benchmarks, OWASP guidelines, and official server documentation:
-  * [Official References & Security Standards (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/05-WEB-APPLICATION-SECURITY-FUNDAMENTALS/04-WEB-SERVER-ATTACKS-I/REFERENCES.md)
+  * [Official References & Security Standards (REFERENCES.md)](../../04-WEB-SERVER-ATTACKS-I/REFERENCES.md)

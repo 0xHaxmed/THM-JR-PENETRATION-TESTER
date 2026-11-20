@@ -103,13 +103,13 @@ When the application performs validation:
 
 | Task # | Task Title | Core Focus | Verified Outcome | Detailed Documentation |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | Introduction | Target environment setup & scope definition | `No answer needed` | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-01.md) |
-| **02** | Types of Authentication Bypass | Theoretical taxonomy & credential reuse | `Credential Reuse` | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-02.md) |
-| **03** | Username Enumeration | Fuzzing registration form for account existence | `simon`, `steve`, `robert` | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-03.md) |
-| **04** | Brute Forcing a Login Form | Multi-wordlist credential brute-forcing | `steve/thunder` | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-04.md) |
-| **05** | Logic Flaws (HPP) | Password reset hijacking & ATO | Flag: `THM{AUTH_BYPASS_COMPLETE}` | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-05.md) |
-| **06** | Cookie Manipulation | Cookie tampering, MD5 cracking, and Base64 | Flag: `THM{COOKIE_TAMPERING}` + 3 values | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-06.md) |
-| **07** | Conclusion | Synthesis of defensive controls & next room | `No answer needed` | [TASK-07.md](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS/TASK-07.md) |
+| **01** | Introduction | Target environment setup & scope definition | `No answer needed` | [TASK-01.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-01.md) |
+| **02** | Types of Authentication Bypass | Theoretical taxonomy & credential reuse | `Credential Reuse` | [TASK-02.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-02.md) |
+| **03** | Username Enumeration | Fuzzing registration form for account existence | `simon`, `steve`, `robert` | [TASK-03.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-03.md) |
+| **04** | Brute Forcing a Login Form | Multi-wordlist credential brute-forcing | `steve/thunder` | [TASK-04.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-04.md) |
+| **05** | Logic Flaws (HPP) | Password reset hijacking & ATO | Flag: `THM{AUTH_BYPASS_COMPLETE}` | [TASK-05.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-05.md) |
+| **06** | Cookie Manipulation | Cookie tampering, MD5 cracking, and Base64 | Flag: `THM{COOKIE_TAMPERING}` + 3 values | [TASK-06.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-06.md) |
+| **07** | Conclusion | Synthesis of defensive controls & next room | `No answer needed` | [TASK-07.md](../../02-BROKEN-AUTHENTICATION/TASKS/TASK-07.md) |
 
 ---
 
@@ -225,7 +225,7 @@ echo -n '{"id":1,"admin":true}' | base64
 
 ## 14. References & Further Reading
 
-* [Authoritative References & Documentation](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/REFERENCES.md)
-* [Deep Technical Notes & Architectural Comparison](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/ADDITIONAL-NOTES.md)
-* [Task Matrix & Quick Reference](file:///e:/THM-JR-PENETRATION-TESTER/08-WEB-APPLICATION-VULNERABILITIES-II/02-BROKEN-AUTHENTICATION/TASKS.md)
+* [Authoritative References & Documentation](../../02-BROKEN-AUTHENTICATION/REFERENCES.md)
+* [Deep Technical Notes & Architectural Comparison](../../02-BROKEN-AUTHENTICATION/ADDITIONAL-NOTES.md)
+* [Task Matrix & Quick Reference](../../02-BROKEN-AUTHENTICATION/TASKS.md)
 * [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)

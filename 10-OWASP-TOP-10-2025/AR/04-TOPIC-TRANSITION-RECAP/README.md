@@ -178,4 +178,4 @@ $$\text{Security by Design} = \text{Strict Input Isolation} + \text{Centralized 
 
 - [OWASP Top 10: 2025 Standard Portal](https://owasp.org/Top10/)
 - [TryHackMe Junior Penetration Tester Learning Path](https://tryhackme.com/path/outline/jrpenetrationtester)
-- **الانتقال المباشر:** [الوحدة 11: Password Attacks](file:///e:/THM-JR-PENETRATION-TESTER/11-PASSWORD-ATTACKS/)
+- **الانتقال المباشر:** [الوحدة 11: Password Attacks](../../../11-PASSWORD-ATTACKS)

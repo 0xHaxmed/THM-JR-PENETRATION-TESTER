@@ -28,11 +28,11 @@ This document summarizes all tasks, questions, and verified solutions for the **
 
 ## Detailed Task Documentation Links
 
-- [Task 01: Introduction to Wireless Security](file:///e:/THM-JR-PENETRATION-TESTER/15-SPECIALIZED-DOMAINS/01-WIRELESS-SECURITY/TASKS/TASK-01.md)
-- [Task 02: Wi-Fi Network Fundamentals](file:///e:/THM-JR-PENETRATION-TESTER/15-SPECIALIZED-DOMAINS/01-WIRELESS-SECURITY/TASKS/TASK-02.md)
-- [Task 03: Wi-Fi Security Protocols & Attack Vectors](file:///e:/THM-JR-PENETRATION-TESTER/15-SPECIALIZED-DOMAINS/01-WIRELESS-SECURITY/TASKS/TASK-03.md)
-- [Task 04: Bluetooth & BLE Security](file:///e:/THM-JR-PENETRATION-TESTER/15-SPECIALIZED-DOMAINS/01-WIRELESS-SECURITY/TASKS/TASK-04.md)
-- [Task 05: RFID and NFC Security](file:///e:/THM-JR-PENETRATION-TESTER/15-SPECIALIZED-DOMAINS/01-WIRELESS-SECURITY/TASKS/TASK-05.md)
-- [Task 06: Other Wireless Technologies (Zigbee, Z-Wave, LoRa)](file:///e:/THM-JR-PENETRATION-TESTER/15-SPECIALIZED-DOMAINS/01-WIRELESS-SECURITY/TASKS/TASK-06.md)
-- [Task 07: Knowledge Test (Interactive Challenge)](file:///e:/THM-JR-PENETRATION-TESTER/15-SPECIALIZED-DOMAINS/01-WIRELESS-SECURITY/TASKS/TASK-07.md)
-- [Task 08: Conclusion & Roadmap](file:///e:/THM-JR-PENETRATION-TESTER/15-SPECIALIZED-DOMAINS/01-WIRELESS-SECURITY/TASKS/TASK-08.md)
+- [Task 01: Introduction to Wireless Security](../../01-WIRELESS-SECURITY/TASKS/TASK-01.md)
+- [Task 02: Wi-Fi Network Fundamentals](../../01-WIRELESS-SECURITY/TASKS/TASK-02.md)
+- [Task 03: Wi-Fi Security Protocols & Attack Vectors](../../01-WIRELESS-SECURITY/TASKS/TASK-03.md)
+- [Task 04: Bluetooth & BLE Security](../../01-WIRELESS-SECURITY/TASKS/TASK-04.md)
+- [Task 05: RFID and NFC Security](../../01-WIRELESS-SECURITY/TASKS/TASK-05.md)
+- [Task 06: Other Wireless Technologies (Zigbee, Z-Wave, LoRa)](../../01-WIRELESS-SECURITY/TASKS/TASK-06.md)
+- [Task 07: Knowledge Test (Interactive Challenge)](../../01-WIRELESS-SECURITY/TASKS/TASK-07.md)
+- [Task 08: Conclusion & Roadmap](../../01-WIRELESS-SECURITY/TASKS/TASK-08.md)

@@ -26,10 +26,10 @@ flowchart LR
 
 | الترتيب | الغرفة | المفهوم الأساسي | ماذا ستتعلم عملياً؟ |
 |:---:|---|---|---|
-| **01** | [01-OFFENSIVE-SECURITY-INTRO](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/AR/01-OFFENSIVE-SECURITY-INTRO/README.md) | الأمن الهجومي وعقلية المخترق | اختراق موقع بنكي تفاعلي (`FakeBank`)، اكتشاف الصفحات المخفية بواسطة أداة `dirb`، وتحويل رصيد مالي. |
-| **02** | [02-DEFENSIVE-SECURITY-INTRO](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/AR/02-DEFENSIVE-SECURITY-INTRO/README.md) | الأمن الدفاعي ومراكز SOC | فحص سجلات الهجمات على الـ SIEM، وتتبع عنوان الـ IP المهاجم وحظره على جدار الحماية. |
-| **03** | [03-SEARCH-SKILLS](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/AR/03-SEARCH-SKILLS/README.md) | مهارات التقصي المتقدمة | أسرار Google Dorks، محرك Shodan للبحث في أجهزة العالم، ومواقع فحص الفيروسات والثغرات (VirusTotal, Exploit-DB). |
-| **04** | [04-TOPIC-TRANSITION-RECAP](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/AR/04-TOPIC-TRANSITION-RECAP/README.md) | التقييم التلخيصي الشامل | مراجعة متكاملة وأسئلة تقيس استيعابك للمفاهيم قبل الانتقال للموديول الثاني. |
+| **01** | [01-OFFENSIVE-SECURITY-INTRO](./01-OFFENSIVE-SECURITY-INTRO/README.md) | الأمن الهجومي وعقلية المخترق | اختراق موقع بنكي تفاعلي (`FakeBank`)، اكتشاف الصفحات المخفية بواسطة أداة `dirb`، وتحويل رصيد مالي. |
+| **02** | [02-DEFENSIVE-SECURITY-INTRO](./02-DEFENSIVE-SECURITY-INTRO/README.md) | الأمن الدفاعي ومراكز SOC | فحص سجلات الهجمات على الـ SIEM، وتتبع عنوان الـ IP المهاجم وحظره على جدار الحماية. |
+| **03** | [03-SEARCH-SKILLS](./03-SEARCH-SKILLS/README.md) | مهارات التقصي المتقدمة | أسرار Google Dorks، محرك Shodan للبحث في أجهزة العالم، ومواقع فحص الفيروسات والثغرات (VirusTotal, Exploit-DB). |
+| **04** | [04-TOPIC-TRANSITION-RECAP](./04-TOPIC-TRANSITION-RECAP/README.md) | التقييم التلخيصي الشامل | مراجعة متكاملة وأسئلة تقيس استيعابك للمفاهيم قبل الانتقال للموديول الثاني. |
 
 ---
 
@@ -45,7 +45,7 @@ flowchart LR
 ---
 
 ## 📂 4. روابط سريعة للغرف
-- 🚪 [الغرفة الأولى: Offensive Security Intro](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/AR/01-OFFENSIVE-SECURITY-INTRO/)
-- 🚪 [الغرفة الثانية: Defensive Security Intro](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/AR/02-DEFENSIVE-SECURITY-INTRO/)
-- 🚪 [الغرفة الثالثة: Search Skills](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/AR/03-SEARCH-SKILLS/)
-- 🚪 [الغرفة الرابعة: Topic Transition Recap](file:///e:/THM-JR-PENETRATION-TESTER/01-START-YOUR-CYBER-SECURITY-JOURNEY/AR/04-TOPIC-TRANSITION-RECAP/)
+- 🚪 [الغرفة الأولى: Offensive Security Intro](./01-OFFENSIVE-SECURITY-INTRO)
+- 🚪 [الغرفة الثانية: Defensive Security Intro](./02-DEFENSIVE-SECURITY-INTRO)
+- 🚪 [الغرفة الثالثة: Search Skills](./03-SEARCH-SKILLS)
+- 🚪 [الغرفة الرابعة: Topic Transition Recap](./04-TOPIC-TRANSITION-RECAP)

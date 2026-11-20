@@ -106,12 +106,12 @@ The room consists of 6 progressive tasks:
 
 | Task # | Task Title | Question | Verified Answer | Stage A-G Detailed File |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | Introduction | Click me to proceed to the next task. | `No answer needed` | [TASK-01.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/05-BURP-SUITE-EXTENSIONS/TASKS/TASK-01.md) |
-| **02** | Extensions Interface | Are extensions invoked in ascending (A) or descending (D) order? | `D` | [TASK-02.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/05-BURP-SUITE-EXTENSIONS/TASKS/TASK-02.md) |
-| **03** | The BApp Store | Click me to proceed to the next task. | `No answer needed` | [TASK-03.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/05-BURP-SUITE-EXTENSIONS/TASKS/TASK-03.md) |
-| **04** | Jython | Click me to proceed to the next task. | `No answer needed` | [TASK-04.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/05-BURP-SUITE-EXTENSIONS/TASKS/TASK-04.md) |
-| **05** | The Burp Suite API | Click me to proceed to the next task. | `No answer needed` | [TASK-05.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/05-BURP-SUITE-EXTENSIONS/TASKS/TASK-05.md) |
-| **06** | Conclusion | I can use Burp Suite Extensions! | `No answer needed` | [TASK-06.md](file:///e:/THM-JR-PENETRATION-TESTER/06-BURP-SUITE/05-BURP-SUITE-EXTENSIONS/TASKS/TASK-06.md) |
+| **01** | Introduction | Click me to proceed to the next task. | `No answer needed` | [TASK-01.md](../../05-BURP-SUITE-EXTENSIONS/TASKS/TASK-01.md) |
+| **02** | Extensions Interface | Are extensions invoked in ascending (A) or descending (D) order? | `D` | [TASK-02.md](../../05-BURP-SUITE-EXTENSIONS/TASKS/TASK-02.md) |
+| **03** | The BApp Store | Click me to proceed to the next task. | `No answer needed` | [TASK-03.md](../../05-BURP-SUITE-EXTENSIONS/TASKS/TASK-03.md) |
+| **04** | Jython | Click me to proceed to the next task. | `No answer needed` | [TASK-04.md](../../05-BURP-SUITE-EXTENSIONS/TASKS/TASK-04.md) |
+| **05** | The Burp Suite API | Click me to proceed to the next task. | `No answer needed` | [TASK-05.md](../../05-BURP-SUITE-EXTENSIONS/TASKS/TASK-05.md) |
+| **06** | Conclusion | I can use Burp Suite Extensions! | `No answer needed` | [TASK-06.md](../../05-BURP-SUITE-EXTENSIONS/TASKS/TASK-06.md) |
 
 ---
 

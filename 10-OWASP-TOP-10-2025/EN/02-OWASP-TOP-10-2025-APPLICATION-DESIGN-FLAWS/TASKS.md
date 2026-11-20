@@ -17,20 +17,20 @@
 
 | رقم المهمة (Task #) | عنوان المهمة (Task Title) | الهدف العملياتي (Operational Objective) | نوع السؤال / السؤال المطلوب | الإجابة المعتمدة (Accepted Answer) | حالة الإنجاز |
 | :---: | :--- | :--- | :--- | :--- | :---: |
-| **01** | [Task 01: Introduction](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-01.md) | التعرف على أهداف الغرفة وتصنيفات التصميم المعماري | I am ready to learn about design flaw vulnerabilities! | `No answer needed` | ✅ منجز |
-| **02** | [Task 02: AS02: Security Misconfigurations](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-02.md) | استغلال رسائل الخطأ التفصيلية في User API | What's the flag? | `THM{V3RB0S3_3RR0R_L34K}` | ✅ منجز |
-| **03** | [Task 03: AS03: Software Supply Chain Failures](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-03.md) | استغلال ميزة التصحيح في مكتبة قديمة مستوردة | What's the flag? | `THM{SUPPLY_CH41N_VULN3R4B1L1TY}` | ✅ منجز |
-| **04** | [Task 04: AS04: Cryptographic Failures](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-04.md) | استخراج مفتاح التشفير الصلب وفك تشفير البيانات | What's the flag? | `THM{CRYPTO_FAILURE_H4RDCOD3D_K3Y}` | ✅ منجز |
-| **05** | [Task 05: AS06: Insecure Design](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-05.md) | تزييف ترويسة User-Agent لتجاوز قيود الهواتف المحمولة | What's the flag? | `THM{1NS3CUR3_D35IGN_4SSUMPT10N}` | ✅ منجز |
-| **06** | [Task 06: Conclusion](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-06.md) | تلخيص مبادئ التصميم الآمن والانتقال للغرفة 03 | I'm ready for the next room! | `No answer needed` | ✅ منجز |
+| **01** | [Task 01: Introduction](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-01.md) | التعرف على أهداف الغرفة وتصنيفات التصميم المعماري | I am ready to learn about design flaw vulnerabilities! | `No answer needed` | ✅ منجز |
+| **02** | [Task 02: AS02: Security Misconfigurations](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-02.md) | استغلال رسائل الخطأ التفصيلية في User API | What's the flag? | `THM{V3RB0S3_3RR0R_L34K}` | ✅ منجز |
+| **03** | [Task 03: AS03: Software Supply Chain Failures](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-03.md) | استغلال ميزة التصحيح في مكتبة قديمة مستوردة | What's the flag? | `THM{SUPPLY_CH41N_VULN3R4B1L1TY}` | ✅ منجز |
+| **04** | [Task 04: AS04: Cryptographic Failures](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-04.md) | استخراج مفتاح التشفير الصلب وفك تشفير البيانات | What's the flag? | `THM{CRYPTO_FAILURE_H4RDCOD3D_K3Y}` | ✅ منجز |
+| **05** | [Task 05: AS06: Insecure Design](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-05.md) | تزييف ترويسة User-Agent لتجاوز قيود الهواتف المحمولة | What's the flag? | `THM{1NS3CUR3_D35IGN_4SSUMPT10N}` | ✅ منجز |
+| **06** | [Task 06: Conclusion](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-06.md) | تلخيص مبادئ التصميم الآمن والانتقال للغرفة 03 | I'm ready for the next room! | `No answer needed` | ✅ منجز |
 
 ---
 
 ## 🎯 Quick Navigation to Detailed Task Files (روابط الوصول المباشر لملفات المهام)
 
-1. [TASK-01.md: Introduction](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-01.md)
-2. [TASK-02.md: AS02: Security Misconfigurations (Verbose Error Disclosure)](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-02.md)
-3. [TASK-03.md: AS03: Software Supply Chain Failures (Vulnerable Dependency)](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-03.md)
-4. [TASK-04.md: AS04: Cryptographic Failures (Hard-coded Keys)](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-04.md)
-5. [TASK-05.md: AS06: Insecure Design (Untrusted Client Assumptions)](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-05.md)
-6. [TASK-06.md: Conclusion & Architectural Remediation](file:///e:/THM-JR-PENETRATION-TESTER/10-OWASP-TOP-10-2025/02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-06.md)
+1. [TASK-01.md: Introduction](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-01.md)
+2. [TASK-02.md: AS02: Security Misconfigurations (Verbose Error Disclosure)](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-02.md)
+3. [TASK-03.md: AS03: Software Supply Chain Failures (Vulnerable Dependency)](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-03.md)
+4. [TASK-04.md: AS04: Cryptographic Failures (Hard-coded Keys)](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-04.md)
+5. [TASK-05.md: AS06: Insecure Design (Untrusted Client Assumptions)](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-05.md)
+6. [TASK-06.md: Conclusion & Architectural Remediation](../../02-OWASP-TOP-10-2025-APPLICATION-DESIGN-FLAWS/TASKS/TASK-06.md)

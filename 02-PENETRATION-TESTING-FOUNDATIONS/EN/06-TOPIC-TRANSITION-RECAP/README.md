@@ -16,7 +16,7 @@ It bridges the practical, architectural, and ethical lessons acquired across the
 
 ### 🏛️ Assessment Index
 To inspect the comprehensive cross-room review questions, analytical scenarios, and verified model answers, consult:
-* [Module 02 Topic Transition Recap Questions (RECAP-QUESTIONS.md)](file:///e:/THM-JR-PENETRATION-TESTER/02-PENETRATION-TESTING-FOUNDATIONS/06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
+* [Module 02 Topic Transition Recap Questions (RECAP-QUESTIONS.md)](../../06-TOPIC-TRANSITION-RECAP/RECAP-QUESTIONS.md)
 
 ---
 

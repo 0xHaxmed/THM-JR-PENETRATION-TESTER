@@ -18,7 +18,7 @@
 ---
 
 ### 🗺️ محتويات هذا القسم
-* [المنهج الكامل والتفصيلي (Complete Curriculum)](file:///e:/THM-JR-PENETRATION-TESTER/LEARNING-PATH-OVERVIEW/COMPLETE-CURRICULUM.md)
-* [خريطة المهارات والجدارات التقنية (Skill Map)](file:///e:/THM-JR-PENETRATION-TESTER/LEARNING-PATH-OVERVIEW/SKILL-MAP.md)
-* [خارطة الطريق التعليمية والمسار الزمني (Learning Roadmap)](file:///e:/THM-JR-PENETRATION-TESTER/LEARNING-PATH-OVERVIEW/LEARNING-ROADMAP.md)
-* [النسخة الإنجليزية من النظرة العامة (English Version)](file:///e:/THM-JR-PENETRATION-TESTER/LEARNING-PATH-OVERVIEW/README_EN.md)
+* [المنهج الكامل والتفصيلي (Complete Curriculum)](./COMPLETE-CURRICULUM.md)
+* [خريطة المهارات والجدارات التقنية (Skill Map)](./SKILL-MAP.md)
+* [خارطة الطريق التعليمية والمسار الزمني (Learning Roadmap)](./LEARNING-ROADMAP.md)
+* [النسخة الإنجليزية من النظرة العامة (English Version)](./README_EN.md)

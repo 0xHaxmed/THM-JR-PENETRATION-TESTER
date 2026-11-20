@@ -158,25 +158,25 @@ sudo nmap -sn -PE -PP -PS21,22,80,443 -PA80,443 -PU53 -n --min-rate 500 10.10.21
 
 ### 12. فهرس المهام التفصيلي (Tasks Index)
 * للاطلاع على التوثيق التفصيلي لكل مهمة وفق منهجية المراحل السبع (A-G):
-  * [المهمة 01: المقدمة (TASK-01.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-01.md)
-  * [المهمة 02: الشبكات الفرعية ومحاكي ARP (TASK-02.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-02.md)
-  * [المهمة 03: استكشاف الأجهزة عبر طبقات TCP/IP (TASK-03.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-03.md)
-  * [المهمة 04: تعداد الأهداف وحسابات CIDR (TASK-04.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-04.md)
-  * [المهمة 05: فحص الشبكة المحلية عبر ARP (TASK-05.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-05.md)
-  * [المهمة 06: اكتشاف الأجهزة عبر ICMP المتعدد (TASK-06.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-06.md)
-  * [المهمة 07: اكتشاف الأجهزة عبر TCP و UDP (TASK-07.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-07.md)
-  * [المهمة 08: استعلامات DNS العكسية وسجلات PTR (TASK-08.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-08.md)
-  * [المهمة 09: الخلاصة وجدول المعاملات (TASK-09.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-09.md)
-* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/TASKS.md).
+  * [المهمة 01: المقدمة (TASK-01.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-01.md)
+  * [المهمة 02: الشبكات الفرعية ومحاكي ARP (TASK-02.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-02.md)
+  * [المهمة 03: استكشاف الأجهزة عبر طبقات TCP/IP (TASK-03.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-03.md)
+  * [المهمة 04: تعداد الأهداف وحسابات CIDR (TASK-04.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-04.md)
+  * [المهمة 05: فحص الشبكة المحلية عبر ARP (TASK-05.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-05.md)
+  * [المهمة 06: اكتشاف الأجهزة عبر ICMP المتعدد (TASK-06.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-06.md)
+  * [المهمة 07: اكتشاف الأجهزة عبر TCP و UDP (TASK-07.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-07.md)
+  * [المهمة 08: استعلامات DNS العكسية وسجلات PTR (TASK-08.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-08.md)
+  * [المهمة 09: الخلاصة وجدول المعاملات (TASK-09.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS/TASK-09.md)
+* راجع أيضاً [جدول ملخص المهام والإجابات المعتمدة (TASKS.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/TASKS.md).
 
 ---
 
 ### 13. الملاحظات الإضافية والتعمق التقني (Additional Notes)
 * للاطلاع على التحليل المعماري لمآخذ النظام الخام (Raw Sockets) ومقارنة استدعاءات النواة:
-  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/ADDITIONAL-NOTES.md)
+  * [ملاحظات إضافية وتعمق تقني (ADDITIONAL-NOTES.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/ADDITIONAL-NOTES.md)
 
 ---
 
 ### 14. المراجع والمعايير القياسية (References)
 * للاطلاع على المعايير الرسمية RFCs ودليل Nmap المرجعي:
-  * [المراجع والمصادر الرسمية (REFERENCES.md)](file:///e:/THM-JR-PENETRATION-TESTER/04-NMAP/01-NMAP-LIVE-HOST-DISCOVERY/REFERENCES.md)
+  * [المراجع والمصادر الرسمية (REFERENCES.md)](../../01-NMAP-LIVE-HOST-DISCOVERY/REFERENCES.md)
